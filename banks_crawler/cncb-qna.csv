@@ -1,0 +1,941 @@
+category,question,answer,language
+证券交易服务一般资讯,网上理财 / 流动理财证券交易步骤,"
+登入中信银行国际网上理财 / 流动理财
+选择证券交易 > 选择证券交易市场（香港证券交易 / 沪港通 / 美国证券交易） > 交易
+输入买卖交易指示内容 > 按递交键
+核实交易指示内容无误 > 按确定键
+系统接纳交易指示后，会显示交易编号(你可于「交易情况 / 更改交易指示」查询有关交易状态数据)
+",sc
+证券交易服务一般资讯,我需要提供什么数据作买卖指令？ ,"当阁下登入后，可以在交易页面页进行买卖，请参照以下步骤：
+于报价栏输入证券代号索取证券价格。(如果阁下不知道证券代号，请按「代号搜寻」进行查询。)
+选择适当的证券交易户口
+选择交易类别（如适用）
+输入适当的证券编号(如果阁下不知道证券代号，请按「编号搜寻」进行查询。)
+在「股数」栏输入阁下想买入或卖出的股数。 
+输入「限定价格」（如适用）
+选择「有效日期」（如适用）。 
+按「递交」按钮预览阁下所输入的指令或按「清除」按钮清除所有以选择之项目及重新开始。 
+按「确定」进行阁下的交易指令。 
+交易确认随后便会显示，以确定此交易指令已被接受并进行处理。此时，阁下亦会收到一个交易编号。 ",sc
+证券交易服务一般资讯,当我买卖证券时，中信银行(国际)何时会于我的账户内扣除我已购入之证券款项？,当本行确认处理买盘指示后，有关之买货金额将会被冻结于阁下的证券结算账户内。本行会于结算日于阁下之账户内扣除已认购之证券款项。阁下已购入之证券于交易日及结算日中间之时段仍然于阁下之账户内享有利息。 ,sc
+证券交易服务一般资讯,我可如何透过网上理财查询证劵交易之购买力？ ,请于交易页面，选择适当的证券交易户口，再按「查询结算户口结余」，各货币之可供交易的总结余即一目了然。,sc
+证券交易服务一般资讯,我如何确定我的交易指令已透过互联网传到中信银行(国际)，并且已经得到处理？ ,"阁下会立即在网上收到一个交易编号，这表示本行已收到阁下的指令。阁下需按「交易状况」检阅阁下的买卖指令状况，查看阁下指令是否经已执行。买卖状况的类别包括执行中、已挂牌、全数成交、部份成交、已过期指令及交易被拒绝。
+待处理 - 交易指示待本行处理。 
+执行中 - 交易指示处理中。 
+已挂牌 - 待完成交易指示。 
+全数成交 - 交易指示全数被执行。 
+部份成交 - 交易指示部份被执行。 
+已过期指令 - 交易指示还未执行因已过了原有之指定时间。 
+交易被拒绝 - 交易指示因特定原因被拒绝。 
+",sc
+证券交易服务一般资讯,我可如何查询交易状况或成盘结果？ ,你只须在证券交易版面，再进入「交易情况 / 更改交易指示」版面，便可查询交易状况或成盘结果。你亦可选择接收电邮/短讯以获通知成盘结果。 ,sc
+证券交易服务一般资讯,我如果想更改正在处理中或其他的指令，我可以怎样做？ ,"
+按「交易情况 / 更改交易指示」。 
+在选定之交易指示列选择「更改」，画面上便会随后出现「更改买卖指令」版面。 
+于所需的栏目内输入更改的指令。此时现有指令详情会列在画面的左方，使比较起来更为方便。 
+交易确认随后便会显示，以确定此交易指令当中的更改已被接收，并进行处理。在这里，阁下可进入「交易状况」链接查核阁下的指令状况。 
+请注意：本行将尽最大努力迅速地将取消交易指示递交至各个交易市场。任何全数取消，未完成交易或部份成交之更改交易指示，并不能保证完全执行，基于原有的交易指示或已部份或全部被执行。更改交易指示或取消交易指示将视乎市场情况及原有的交易指示之执行情况而定。 ",sc
+证券交易服务一般资讯,如果我想取消正在处理中或已部份成交的指令，我可以怎样做？ ,"
+按「交易情况/更改交易指示」。 
+在选定之交易指示列选择「取消」，画面上便会随后出现「取消交易指示」版面。 
+按「取消交易」键以确定进行取消指令的步骤。 
+如果阁下选择取消了一张不当的指令或阁下原本并不想取消的指令，请按「取消」键。如果当中发生错误，此时版面会显示详情。 
+交易确认随后便会显示，以确定此交易指令已被接收，并进行处理。在这里，阁下可再按入「交易状况」查核阁下的指令状况。 
+阁下可取消仍未成交的证券买卖指令。只须到「交易状况」版面然后按「取消」，阁下便可取消指令。请注意客户所提交的取消指令本行将尽最大努力迅速地将取消交易指示递交至各个交易市场。任何全数取消，未完成交易或部份成交之更改交易指示，并不能保证完全执行，基于原有的交易指示或已部份或全部被执行。 ",sc
+证券交易服务一般资讯,如果我的买卖指令在有效日期收市前仍未被执行将会怎样处理？ ,在有效日期收市后，所有未能配对的买卖盘将被删除。如阁下想将指令于下一个工作天执行，阁下须在收市后重新输入指令。,sc
+证券交易服务一般资讯,未成交的交易指示被取消时，交易状况及结余会有什么变化？ ,被取消之交易所涉及的「待执行指令所预留现金」会拨回至「买货可使用结余」。 ,sc
+证券交易服务一般资讯,未成交的交易指示到期时，交易状况及结余会有什么变化？ ,于有效日期收市以后，此类交易指示会于「交易状况」显示为「已过期指令」，其涉及的「待执行指令所预留现金」会拨回至「买货可使用结余」。 ,sc
+证券交易服务一般资讯,在户口概览中，证券之「平均成本」是什么？,「平均成本」是根据本行所知的以加权平均买入价及收费计算，所显示之金额只供参考之用。如阁下持有于2015年2月27日或之前买入的美国证券，有关持货的加权平均成本会按2015年2月27日之收市价计算。 ,sc
+证券交易服务一般资讯,证券交易服务是否设有交易限额？ ,"是。现时每笔证券交易的交易限额为等值港币$2,000,000。 ",sc
+证券交易服务一般资讯,我会收到哪些种类的账户结单？ ,如果账户内当日有交易纪录，阁下便会收到日结单。月结单亦会于每月的首七天内寄给阁下。阁下可于月结单上看到阁下在过去一个月内所进行的交易纪录，以及阁下账户内的现金结余及持有的证券。再者，阁下亦可于网上翻阅阁下的账户数据。,sc
+证券交易服务一般资讯, 我如果想复印我的每月或每日的结单，我可以怎样做？ ,阁下可提出要求取得复印的结单。阁下可致电本行的证券服务专线向本行之产品专员指出要求，此服务需额外收费。 ,sc
+证券交易服务一般资讯,我可如何取得进一步协助？ ,你可亲临中信银行（国际）分行，或致电与本行客户服务主任联络(香港证券及沪港通服务请致电：2287 6088；美国证券服务请致电：2287 6688)。 ,sc
+证券交易服务一般资讯,我的证券交易指示尚未成盘，为何会收到短讯提示？,为加强证券交易服务之保安，阁下于各地市场每个历日之首个交易指示将收到短讯提示。,sc
+证券交易服务一般资讯,如我在三地市场均有落盘，我是否会收到三个短讯提示？,是。于各市场同一历日之首个交易指示，均会收到相关短讯提示。,sc
+香港证券交易服务,我可以于什么渠道买卖香港证劵？,"你可透过以下渠道买卖香港证劵：
+网上理财
+CITIC 流动理财
+自动电话理财证券买卖专线
+专人接听证券买卖热线
+",sc
+香港证券交易服务,我可选择什么交易盘？ ,"你可选择：
+竞价限价盘
+增强限价盘
+市价盘
+获利限价盘
+止蚀限价盘
+",sc
+香港证券交易服务,我可落碎股盘吗？ ,你只须在「证券交易」版面选择「香港证券交易」，再进入「沽出碎股」版面，你便可输入碎股沽盘。请注意，本行不接受碎股买入交易。,sc
+香港证券交易服务,什么是「有效日期」特性？ ,「有效日期」功能让你可设定交易盘最长有效期至八个交易日。带至下一交易日之交易将以竞价限价盘之形式于开市前时段处理。如交易已部份成盘、全数成盘、取消或被拒纳，指示将不会带至下一个交易日。,sc
+香港证券交易服务,为何输入的交易被拒并显示提示讯息「指示价已超过可接受的交易价位」？ ,本行只接受落盘价格离现价 199 个价位范围内的竞价限价盘及离现价 23 个价位范围内的增强限价盘。超出以上范围的交易指示将被拒纳。 ,sc
+香港证券交易服务,不同股价的最低上落价位是多少？ ,"
+
+
+股价由(HK$) 
+最低上落价位
+
+
+0.01
+0.001
+
+
+0.25
+0.005
+
+
+0.50
+0.010
+
+
+1.00
+0.010
+
+
+2.00
+0.010
+
+
+5.00
+0.010
+
+
+10.00
+0.020
+
+
+20.00
+0.050
+
+
+100.00
+0.100
+
+
+200.00
+0.200
+
+
+500.00
+0.500
+
+
+1000.00
+1.000
+
+
+2000.00
+2.000
+
+
+5,000.00 至 9,995.00
+5.000
+
+
+",sc
+香港证券交易服务,我可如何透过网上理财 / 流动理财处理改盘或取消盘指示？ ,你只须在「证券交易」版面选择「香港证券交易」，再进入「交易情况 / 更改交易指示」版面以处理改盘或取消盘指示。请注意，已确定之沽出碎股指示不能作更改或取消。 ,sc
+香港证券交易服务,在网上理财落盘后，我可否透过其他渠道查询、更改或取消交易指示？ ,可以。你可选择跨渠道处理交易指示。例如，你可透过流动理财、自动化电话系统或专人接听电话交易专线处理各指示。,sc
+香港证券交易服务,香港证券交易的交收安排为何？ ,香港证券交易会按照港交所的交收周期进行。证券及款项的交收会于T+2交易日进行。 ,sc
+香港证券交易服务,在进行「双柜台」(人民币及港币柜台)证券买卖时，有什么须要注意？ ,买卖「双柜台」(人民币及港币柜台)证券时，请注意如发行人只以人民币分派股息，你必须持有人民币结算账户，方可收取人民币股息。 ,sc
+香港证券交易服务,在参予买卖纳斯达克–美国证券交易所试验计划(试验计划)之证券时，有什么须要注意？ ,按照纳斯达克–美国证券交易所试验计划(试验计划)挂牌买卖的证券是为熟悉投资技巧的投资者而设的。你在买卖该项试验计划的证券之前，应先咨询有关持牌人或注册人的意见和熟悉该项试验计划。你应知悉，按照该项试验计划挂牌买卖的证券并非以香港联合交易所有限公司的主板或创业板作第一或第二上市的证券类别加以监管。 ,sc
+沪港通,沪港通是什么？,「沪港证券交易机制」(沪港通)建立一个香港及中国内地的共同市场。沪港通容许投资者利用交易所及结算中心，交易及结算于两地证券市场的上市证券。沪港通是由香港交易所（港交所）、上海证券交易所（上交所）与中国证券登记结算有限责任公司（中国结算）在中国内地与香港两地证券市场建立的交易及结算互联互通机制，旨在实现两地投资者直接进入对方市场的目标。 在沪港通项目下，香港联合交易所有限公司（联交所）与上交所将实现两地市场买卖盘相互传递及设立相关技术基础设施，从而让各自市场的投资者能够买卖在对方市场上市的指定股本证券。中华通—指为互相进入联交所和上交所市场，由联交所、上交所、香港结算和中国结算建立的或将要建立的证券交易及结算互联互通机制。 港股通—内地合资格投资者可透过沪港通南向交易于上海证券交易所(上交所)登记的内地证券所及证券交易服务公司，向港交所发出交易指示买卖于香港联合交易上市(港交所)的合资格港股通证券。合资格证券包括恒生综合大型股指数及恒生综合中型股指数的成份股，以及所有同时于上交所及港交所上市的证券。 沪股通—香港及海外投资者可透过沪港通北向交易于港交所登记的本地证券所及证券交易服务公司，向上交所发出交易指示买卖于上交所上市的合资格沪股通证券。沪股通的合资格证券包括上证180指数及上证380指数成份股，以及所有同时于上交所及港交所上市的证券(不包括被实施风险警示及并非以人民币买卖的证券)。 ,sc
+沪港通,我可以于什么渠道买卖沪股通证券？,"你可透过以下渠道买卖沪股通证券：
+网上理财
+CITIC 流动理财
+自动电话理财证券买卖专线
+专人接听证券买卖热线
+",sc
+沪港通,请问沪股通证券买卖接受什么指示盘？ ,沪股通证券买卖一律只接受限价盘。你的限价盘指示会于开盘集合竞价时段送出市场。,sc
+沪港通,北向交易的交收安排为何？ ,与港股的交收安排不同，北向交易会按照上交所A股市场的交收周期进行。证券交收会于交易日（T日）进行，款项交收则会于T+1日进行。 ,sc
+沪港通,请问我可以于买入沪股通证券当天实时将该证券卖出吗？另外，我可以将即日卖出证券的款项实时买入其他的沪股通证券吗？ ,不可以，北向交易不允许进行即日买卖，你于交易日（T日）买入的沪股通证券只可以于T+1日或之后卖出。另外，因为款项交收会于T+1日进行，你不可以将即日卖出证券的款项实时买入其他沪股通证券。 ,sc
+沪港通,请问我的沪股通证券买卖指示可以更改或取消吗？ ,北向交易不允许更改买卖指示。如欲更改买卖指示，你必须先取消原有未执行的买卖指示，于成功取消后，阁下可重新提交新的买卖指示。,sc
+沪港通,买卖沪股通证券，需要缴付什么费用？ ,你需支付第三者费用如经手费、证管费、过户费、交易印花税，以及本行费用如经纪佣金。详情请参阅「投资产品服务收费」。有关费用会以人民币支付。,sc
+沪港通,沪股通证券会在什么情况下被暂停买入？ ,"你于下列情况下将不可以买入沪股通证券：
+							a)该等证券不再属于有关指数成份股；
+							b)该等证券被实施风险警示；
+							c)该等证券相应的H股不再在联交所挂牌买卖；
+							d)每日额度余额降至零或以下；
+							e)总额度余额少于每日额度。 ",sc
+沪港通,沪股通证券的每手单位 / 碎股、买卖规模及最低上落价位如何？,所有沪股通证券每手均为100股（必须以整手发出买入指示），仅沽出指示可接纳碎股。沪股通证券最低上落价位划一为人民币0.01元。每宗单一买卖指示之最高限额为100万股。 ,sc
+沪港通,请问我的买入指示有可能会以碎股成交？,你的买入指示的最终成交股数有可能出现碎股。,sc
+沪港通,恶劣天气情况下，会如何安排？,"北向交易在恶劣天气情况下的交易安排如下：
+若上交所通知由于恶劣天气下一交易日可能暂停A股交易，联交所将会相应地通知香港市场。 
+假如 8 号（或以上）台风讯号及 / 或黑色暴雨警告在香港市场开市前发出，北向交易将暂停服务。当该讯号停止，北向交易按照现行香港做法恢复交易。（详情请参阅香港交易所网站：http://www.hkex.com.hk/chi/market/typhoons/tradingarrangement_c.htm）
+假如 8 号（或以上）台风讯号在香港市场开市后但上海市场开市前发出（9时至9时15分之间），北向交易将暂停服务。 
+假如 8 号（或以上）台风讯号在上海市场开市后才发出，于讯号发出后15分钟后将停止交易。之后只会接受取消买卖指示直至上交所收市。 
+
+
+
+
+情况
+北向交易
+香港市场现有安排
+
+
+八号台风讯号 / 黑色暴雨警告于香港市场开市前发出(即早上9时前)
+不开放
+不开放
+
+
+八号台风讯号于早上9时至9时15分之间发出
+不开放
+开市前时段后停止交易
+
+
+八号台风讯号于早上9时至9时15分之间发出（即早上9时15分）
+15分钟后停止交易，之后只接受取消买卖指示直至上交所收市
+15分钟后停止交易
+
+
+黑色暴雨警告于香港市场开市后发出
+如常交易
+如常交易
+
+
+八号台风讯号 / 黑色暴雨警告于中午12时前解除
+两小时后恢复交易
+两小时后恢复交易
+
+
+八号台风讯号 / 黑色暴雨警告于中午12时后解除
+不开放
+不开放
+
+
+",sc
+沪港通,我已持有证券交易户口，可否实时买卖沪股通证券？,你只需为现有的证劵交易户口设定人民币结算户口，即可于下一个工作天买卖沪股通证券。如欲设定证劵交易户口的结算户口，请即登入网上理财或亲临分行办理。 ,sc
+沪港通,我已持有证券交易户口，但未设定证券交易户口的人民币结算户口，该怎么办？,如欲设定证劵交易户口的结算户口，请即登入网上理财或亲临分行办理。 ,sc
+沪港通, 我可否认购首次公开发售之沪股通证券新股？,不，沪港通并不支持首次公开招股。,sc
+沪港通,哪里可获取更多有关沪港通的信息？,"你可透过香港交易所网站的「中国证券市场网页」查阅更多有关沪港通的信息，例如投资者数据文件、投资者常见问题、合资格股份、投资额度余额等等。(网址：http://www.hkex.com.hk/chi/csm/chinaConnect.asp?LangCode=tc)买卖上海 A 股与港股的比较
+
+
+
+ 
+透过沪港通北向交易买卖上海A股
+于香港买卖港股
+
+
+可买卖证券
+- 上证180指数的成份股- 上证380指数的成份股- 同时在港交所及上交所上市的A股(不包括被实施风险警示及并非以人民币买卖的证券)
+于港交所上市的所有证券
+
+
+额度
+总额度：人民币3,000亿元每日额度：人民币130亿元
+没有额度限制
+
+
+结算货币
+人民币
+港币
+
+
+每手股数
+每手均为100股
+每手股数按个别证券而定
+
+
+价格限制
+落盘价位不可超过前一日收市价的+/- 10%
+没有规定
+
+
+最低上落价位
+划一为人民币0.01元
+按证券价格由港币0.001元至5元不等
+
+
+交易时间
+开盘集合竞价：09:15 – 09:25早市：09:30 – 11:30午市：13:00 – 15:00
+开市前时段：09:00 – 09:30早市：09:30 – 12:00 延续早市：12:00-13:00午市：13:00 – 16:00收市竞价交易时段：16:00-16:10
+
+
+交易日
+两地市场均开放交易且两地市场的银行于相应的交收日均开放服务的工作日
+所有港交所交易日
+
+
+交收及结算
+证券交收：T日款项交收：T+1日
+证券及款项交收：T+2日
+
+
+回转交易(即日鲜)
+不允许，刚于T日买入的证券仅可以于T+1日或之后卖出
+允许
+
+
+收费及税项
+- 经手费(上交所收取)：成交额的0.00487%- 证管费(中国证监会收取)：成交额的0.002%- 过户费(0.002%由中国结算收取，0.002%由香港结算收取)：成交额的0.004%- 交易印花税(国家税务总局收取)：成交金额的0.1% (卖货)
+- 交易征费(香港证监会收取)：成交额的0.0027%- 交易费(港交所收取)：成交额的0.005%- 印花税(香港特区政府收取)：成交金额的 0.1%
+
+
+",sc
+美国证券交易服务,中信银行(国际)的美国证券交易服务包括什么产品和服务？,"本行的美国证券交易服务提供美国上市证券的买卖及托管服务，包括在纽约证券交易所及纳斯达克证券市场上市之证券。惟本行并不接受任何市值低于5,000万美元及股价低于0.5美元之证券的买入指示。 ",sc
+美国证券交易服务,我可以于什么渠道买卖美国证券？,"你可透过以下渠道买卖美国证券：
+网上理财
+CITIC流动理财
+",sc
+美国证券交易服务,我可以于网上开立户口买卖美国证券吗？ ,现有客户可于网上银行开立证券账户，只须登入 i-banking 后于「开立户口」页面选择开立「证券现金户口」，并亲临分行完成 W-8BEN 表格及市场数据展示服务协议即可买卖美国证券。如阁下为全新客户或尚未开立网上银行服务，客户可亲临分行辨理。请注意，本行的证券买卖服务不适用于美国人士。 ,sc
+美国证券交易服务,什么是W-8BEN表格？它是否需要更新？ ,W-8BEN 表格是用作向美国国税局 (Internal Revenue Service) 申报非美国人士身份的文件。此表格是需要每 3 年更新一次。否则，于 W-8BEN 表格过期后所进行之美国证券交易将不会再按非美国人士之标准征税。 ,sc
+美国证券交易服务,何时为美国证券市场的交易时间？,"
+北半球夏令时段 - (香港时间) 21:30 - 04:00
+北半球冬令时段 - (香港时间) 22:30 - 05:00
+北半球夏令时段由每年三月的第二个星期日的凌晨 2am 开始。 北半球冬令时段由每年十一月的第一个星期日的凌晨 2am 开始。 阁下可于(香港时间) 19:30至美国证券市场收市前经本行的网上银行进行交易。阁下如有任何问题，可联络本行的美国证券服务专线(852) 2287 6688 寻求协助。 服务时间(香港时间)：星期一至五全日[上午5时至9时(北半球夏天)及上午6时至9时、下午9时至10时(北半球冬天)及美国公众假期除外]",sc
+美国证券交易服务,我需要多久才可以沽出我的证券及何时可以收到已沽售证券之金额？,阁下之证券可于买入后实时沽出。卖货之金额将于卖货执行后3日(即交易日后3个工作日)存入阁下之账户内。 ,sc
+美国证券交易服务,我可否于香港的公众假期时买卖美国之证券？,可以，只要美国证券市场是交易日便可。,sc
+美国证券交易服务, 投资海外的证券是否需要缴税？ ,非美国人士买卖美国证券所得之资本收益可豁免缴付任何美国税项，但所得之股息收入则须缴付30%之预扣税。上述并非税项建议，有关税项问题，请咨询个别之税务顾问。 ,sc
+美国证券交易服务, 美国证交会收费如何？ ,美国证交会收费即本行投资产品服务收费表上所指的销售税(Sales Tax)，是根据1934年证券交易所法而厘订，这项费用适用于沽出交易所上市之证券。这项费用为个别收费，与经纪佣金及其他交易征费不同。美国证券交易委员会将不时重估有关收费。 ,sc
+EIPO,甚么是首次公开招股？,「首次公开招股」(IPO)是指一间公司首次向公众投资者发行新股及将证券在证券交易所上市买卖。 ,sc
+EIPO,i-banking的网上认购新股服务能提供的服务是甚么？,i-banking客户可透过这项服务经网上认购首次发行的新股(黄表申请)。 ,sc
+EIPO,客户需符合甚么资格才可透过i-banking认购新股？,"客户须：
+为本行的i-banking客户(个人客户)；
+为个人申请者；
+拥有有效之个人名义的证券户口(黄表申请者)；
+个别公司于首次公开招股或许会接受非香港居民申请，详情请参阅有关招股书。
+",sc
+EIPO,网上认购新股有什么步骤？,"第一步 
+							于决定认购新股前，你应该细阅有关之招股书，才作出投资决定。你可于登入i-banking后，到 ""证券交易"" > ""新股认购""中取得有关之招股数据第二步 
+							按 "" 网上认购 "" 键及阁下欲申请之新股，细阅电子公开招股服务之条款及细则及一般条款，填写申请表及发出有关之付款指示，以便我们于特定时间从你的指定账户扣除认购股款第三步 
+							确认你的申请详情及于网上递交申请表后，你即获发参考编号以作记录 第四步 
+							请确保你的指定支账账户有足够款项以便我们于所定的时间过账，否则有关申请将会自动作废，亦不作另行通知",sc
+EIPO,是否可以修改或取消网上新股认购的申请？,不可以，申请表一旦获得接纳，即不得修改或取消。,sc
+EIPO,怎样才知道申请是否已被成功递交股份过户登记处？,我们会于所指定的支账账户中扣除申请股份所需之款项后把申请表于正式截止时间前送交股份过户登记处。如申请表上有任何错误或所指定的支账账户未有足够款项，申请将会自动作废，并不另行通知。,sc
+EIPO,怎样取回因认购申请未获成功分配而退回的认购金额，或因股价调整后而多付之申请金额？,"黄表申请者
+							退款将会于指定的退款日直接存入客户的证券户口内。白表申请者
+							发行人之股份过户处将以支票形式把有关之认购金额退回客户。退款支票将于发行人公布之退款日期当天，以邮递方式寄回客户于网上认购新股服务申请表上所填报之地址。",sc
+EIPO,如认购申请成功地获得分配，客户会否收到证券？客户将怎样取得获分配之股份？,"黄表申请者
+							如客户之申请全部或部份获接纳，所获配发之证券将会直接存入客户的证券户口内。白表申请者
+							如客户成功地获得分配股份，发行人之股份过户处将以客户之名字登记而发出证券，并于发行人公布之派发日期内，以邮递方式把证券寄予客户于网上认购新股服务申请表上所填报之地址。",sc
+EIPO,EIPO申请的手续费是多少？,有关数据以个别EIPO为准。 ,sc
+EIPO,可以登入自己的i-banking帮别人申请EIPO吗？,不可以。,sc
+EIPO,认购新股公司股份涉及的风险,"认购高于投资者的需要
+							投资人士可能因未必会完全获取其认购数量而认购多于自己的实际需要 , 但假如是次招股行动并没有超额认购，投资者将会获得所有认购的数量及支付全数应缴款项。 市场风险
+							当公司挂牌上市后，其股份有机会跌破招股价。业务风险
+							决定投资之前，你应了解有关公司之业务性质，彻底细读其招股书、公司财务报告、甚至寻求专业人士的意见，方才作出投资决定。",sc
+證券交易服務一般資訊,網上理財 / 流動理財證券交易步驟,"
+登入中信銀行國際網上理財/流動理財 
+選擇證券交易 > 選擇證券交易市場（香港證券交易 / 滬港通 / 美國證券交易） >  交易
+輸入買賣交易指示內容 > 按遞交鍵
+核實交易指示內容無誤 > 按確定鍵
+系統接納交易指示後，會顯示交易編號(你可於「交易情況 / 更改交易指示」查詢有關交易狀態資料)
+",tc
+證券交易服務一般資訊,我需要提供什麼資料作買賣指令？,"當閣下登入後，可以在交易頁面頁進行買賣，請參照以下步驟：
+於報價欄輸入證券代號索取證券價格。(如果閣下不知道證券代號，請按「代號搜尋」進行查詢。)
+選擇適當的證券交易戶口
+選擇交易類別（如適用）
+輸入適當的證券編號(如果閣下不知道證券代號，請按「編號搜尋」進行查詢。)
+在「股數」欄輸入閣下想買入或賣出的股數。
+輸入「限定價格」（如適用）
+選擇「有效日期」（如適用）。
+按「遞交」按鈕預覽閣下所輸入的指令或按「清除」按鈕清除所有以選擇之項目及重新開始。
+按「確定」進行閣下的交易指令。
+交易確認隨後便會顯示，以確定此交易指令已被接受並進行處理。此時，閣下亦會收到一個交易編號。",tc
+證券交易服務一般資訊,當我買賣證券時，中信銀行(國際)何時會於我的賬戶內扣除我已購入之證券款項 ？,當本行確認處理買盤指示後，有關之買貨金額將會被凍結於閣下的證券結算賬戶內。本行會於結算日於閣下之賬戶內扣除已認購之證券款項。閣下已購入之證券於交易日及結算日中間之時段仍然於閣下之賬戶內享有利息。,tc
+證券交易服務一般資訊,我可如何透過網上理財查詢證劵交易之購買力？,請於交易頁面，選擇適當的證券交易戶口，再按「查詢結算戶口結餘」，各貨幣之可供交易的總結餘即一目了然。,tc
+證券交易服務一般資訊,我如何確定我的交易指令已透過互聯網傳到中信銀行(國際)，並且已經得到處理？,"閣下會立即在網上收到一個交易編號，這表示本行已收到閣下的指令。閣下需按「交易狀況」檢閱閣下的買賣指令狀況，查看閣下指令是否經已執行。買賣狀況的類別包括執行中、已掛牌、全數成交、部份成交、已過期指令及交易被拒絕。
+待處理 - 交易指示待本行處理。
+執行中 - 交易指示處理中。
+已掛牌 - 待完成交易指示。
+全數成交 - 交易指示全數被執行。
+部份成交 - 交易指示部份被執行。
+已過期指令 - 交易指示還未執行因已過了原有之指定時間。
+交易被拒絕 - 交易指示因特定原因被拒絕。
+",tc
+證券交易服務一般資訊,我可如何查詢交易狀況或成盤結果？,你只須在證券交易版面，再進入「交易情況 / 更改交易指示」版面，便可查詢交易狀況或成盤結果。你亦可選擇接收電郵/短訊以獲通知成盤結果。,tc
+證券交易服務一般資訊,我如果想更改正在處理中或其他的指令，我可以怎樣做？,"
+按「交易情況 / 更改交易指示」。
+在選定之交易指示列選擇「更改」，畫面上便會隨後出現「更改買賣指令」版面。
+於所需的欄目內輸入更改的指令。此時現有指令詳情會列在畫面的左方，使比較起來更為方便。
+交易確認隨後便會顯示，以確定此交易指令當中的更改已被接收，並進行處理。在這裡，閣下可進入「交易狀況」連結查核閣下的指令狀況。 
+請注意：本行將盡最大努力迅速地將取消交易指示遞交至各個交易市場。任何全數取消，未完成交易或部份成交之更改交易指示，並不能保證完全執行，基於原有的交易指示或已部份或全部被執行。更改交易指示或取消交易指示將視乎市場情況及原有的交易指示之執行情況而定。",tc
+證券交易服務一般資訊,如果我想取消正在處理中或已部份成交的指令，我可以怎樣做？,"
+按「交易情況/更改交易指示」。
+在選定之交易指示列選擇「取消」，畫面上便會隨後出現「取消交易指示」版面。
+按「取消交易」鍵以確定進行取消指令的步驟。
+如果閣下選擇取消了一張不當的指令或閣下原本並不想取消的指令，請按「取消」鍵。如果當中發生錯誤，此時版面會顯示詳情。
+交易確認隨後便會顯示，以確定此交易指令已被接收，並進行處理。在這裡，閣下可再按入「交易狀況」查核閣下的指令狀況。
+閣下可取消仍未成交的證券買賣指令。只須到「交易狀況」版面然後按「取消」，閣下便可取消指令。請注意客户所提交的取消指令本行將盡最大努力迅速地將取消交易指示遞交至各個交易市場。任何全數取消，未完成交易或部份成交之更改交易指示，並不能保證完全執行，基於原有的交易指示或已部份或全部被執行。",tc
+證券交易服務一般資訊,如果我的買賣指令在有效日期收市前仍未被執行將會怎樣處理？,在有效日期收市後，所有未能配對的買賣盤將被刪除。如閣下想將指令於下一個工作天執行，閣下須在收市後重新輸入指令。,tc
+證券交易服務一般資訊,未成交的交易指示被取消時，交易狀況及結餘會有什麽變化？,被取消之交易所涉及的「待執行指令所預留現金」會撥回至「買貨可使用結餘」。,tc
+證券交易服務一般資訊,未成交的交易指示到期時，交易狀況及結餘會有什麽變化？,於有效日期收市以後，此類交易指示會於「交易狀況」顯示為「已過期指令」，其涉及的「待執行指令所預留現金」會撥回至「買貨可使用結餘」。,tc
+證券交易服務一般資訊,在戶口概覽中，證券之「平均成本」是什麼？,「平均成本」是根據本行所知的以加權平均買入價及收費計算，所顯示之金額只供參考之用。如閣下持有於2015年2月27日或之前買入的美國證券，有關持貨的加權平均成本會按2015年2月27日之收市價計算。,tc
+證券交易服務一般資訊,證券交易服務是否設有交易限額？,"是。現時每筆證券交易的交易限額為等值港幣$2,000,000。",tc
+證券交易服務一般資訊,我會收到哪些種類的賬戶結單？,如果賬戶內當日有交易紀錄，閣下便會收到日結單。月結單亦會於每月的首七天內寄給閣下。閣下可於月結單上看到閣下在過去一個月內所進行的交易紀錄，以及閣下賬戶內的現金結餘及持有的證券。再者，閣下亦可於網上翻閱閣下的賬戶資料。,tc
+證券交易服務一般資訊,我如果想複印我的每月或每日的結單，我可以怎樣做？,閣下可提出要求取得複印的結單。閣下可致電本行的證券服務專線向本行之產品專員指出要求，此服務需額外收費。,tc
+證券交易服務一般資訊,我可如何取得進一步協助？,你可親臨中信銀行（國際）分行，或致電與本行客戶服務主任聯絡(香港證券及滬港通服務請致電：2287 6088；美國證券服務請致電：2287 6688)。,tc
+證券交易服務一般資訊,我的證券交易指示尚未成盤，為何會收到短訊提示？,為加強證券交易服務之保安，閣下於各地市場每個曆日之首個交易指示將收到短訊提示。,tc
+證券交易服務一般資訊,如我在三地市場均有落盤，我是否會收到三個短訊提示？,是。於各市場同一曆日之首個交易指示，均會收到相關短訊提示。,tc
+香港證券交易服務,我可以於什麼渠道買賣香港證劵？,"你可透過以下渠道買賣香港證劵：
+網上理財 
+CITIC流動理財
+自動電話理財證券買賣專線
+專人接聽證券買賣熱線
+",tc
+香港證券交易服務,我可選擇什麼交易盤？,"你可選擇：
+競價限價盤
+增強限價盤
+市價盤
+獲利限價盤
+止蝕限價盤
+",tc
+香港證券交易服務,我可落碎股盤嗎？,你只須在「證券交易」版面選擇「香港證券交易」，再進入「沽出碎股」版面，你便可輸入碎股沽盤。請注意，本行不接受碎股買入交易。,tc
+香港證券交易服務,什麼是「有效日期」特性？,「有效日期」功能讓你可設定交易盤最長有效期至八個交易日。帶至下一交易日之交易將以競價限價盤之形式於開市前時段處理。如交易已部份成盤、全數成盤、取消或被拒納，指示將不會帶至下一個交易日。,tc
+香港證券交易服務,為何輸入的交易被拒並顯示提示訊息「指示價已超過可接受的交易價位」？,本行只接受落盤價格離現價199個價位範圍內的競價限價盤及離現價23個價位範圍內的增強限價盤。超出以上範圍的交易指示將被拒納。,tc
+香港證券交易服務,不同股價的最低上落價位是多少？,"
+
+
+股價由(HK$)
+最低上落價位
+
+
+0.01
+0.001
+
+
+0.25
+0.005
+
+
+0.50
+0.010
+
+
+1.00
+0.010
+
+
+2.00
+0.010
+
+
+5.00
+0.010
+
+
+10.00
+0.020
+
+
+20.00
+0.050
+
+
+100.00
+0.100
+
+
+200.00
+0.200
+
+
+500.00
+0.500
+
+
+1000.00
+1.000
+
+
+2000.00
+2.000
+
+
+5,000.00 至 9,995.00
+5.000
+
+
+",tc
+香港證券交易服務,我可如何透過網上理財 / 流動理財處理改盤或取消盤指示？,你只須在「證券交易」版面選擇「香港證券交易」，再進入「交易情況 / 更改交易指示」版面以處理改盤或取消盤指示。請注意，已確定之沽出碎股指示不能作更改或取消。,tc
+香港證券交易服務,在網上理財落盤後，我可否透過其他渠道查詢、更改或取消交易指示？,可以。你可選擇跨渠道處理交易指示。例如，你可透過流動理財、自動化電話系統或專人接聽電話交易專線處理各指示。,tc
+香港證券交易服務,香港證券交易的交收安排為何？,香港證券交易會按照港交所的交收週期進行。證券及款項的交收會於T+2交易日進行。,tc
+香港證券交易服務,在進行「雙櫃台」(人民幣及港幣櫃台)證券買賣時，有什麼須要注意？,買賣「雙櫃台」(人民幣及港幣櫃台)證券時，請注意如發行人只以人民幣分派股息，你必須持有人民幣結算賬戶，方可收取人民幣股息。,tc
+香港證券交易服務,在參予買賣納斯達克–美國證券交易所試驗計劃(試驗計劃)之證券時，有什麼須要注意？,按照納斯達克–美國證券交易所試驗計劃(試驗計劃)掛牌買賣的證券是為熟悉投資技巧的投資者而設的。你在買賣該項試驗計劃的證券之前，應先諮詢有關持牌人或註冊人的意見和熟悉該項試驗計劃。你應知悉，按照該項試驗計劃掛牌買賣的證券並非以香港聯合交易所有限公司的主板或創業板作第一或第二上市的證券類別加以監管。,tc
+滬港通,滬港通是什麼？,「滬港證券交易機制」(滬港通)建立一個香港及中國內地的共同市場。滬港通容許投資者利用交易所及結算中心，交易及結算於兩地證券市場的上市證券。滬港通是由香港交易所（港交所）、上海證券交易所（上交所）與中國證券登記結算有限責任公司（中國結算）在中國內地與香港兩地證券市場建立的交易及結算互聯互通機制，旨在實現兩地投資者直接進入對方市場的目標。在滬港通項目下，香港聯合交易所有限公司（聯交所）與上交所將實現兩地市場買賣盤相互傳遞及設立相關技術基礎設施，從而讓各自市場的投資者能夠買賣在對方市場上市的指定股本證券。中華通—指為互相進入聯交所和上交所市場，由聯交所、上交所、香港結算和中國結算建立的或將要建立的證券交易及結算互聯互通機制。港股通—內地合資格投資者可透過滬港通南向交易於上海證券交易所(上交所)登記的內地證券所及證券交易服務公司，向港交所發出交易指示買賣於香港聯合交易上市(港交所)的合資格港股通證券。合資格證券包括恆生綜合大型股指數及恆生綜合中型股指數的成份股，以及所有同時於上交所及港交所上市的證券。滬股通—香港及海外投資者可透過滬港通北向交易於港交所登記的本地證券所及證券交易服務公司，向上交所發出交易指示買賣於上交所上市的合資格滬股通證券。滬股通的合資格證券包括上證180指數及上證380指數成份股，以及所有同時於上交所及港交所上市的證券(不包括被實施風險警示及並非以人民幣買賣的證券)。 ,tc
+滬港通,我可以於什麼渠道買賣滬股通證券？,"你可透過以下渠道買賣滬股通證券：
+網上理財 
+CITIC流動理財
+自動電話理財證券買賣專線
+專人接聽證券買賣熱線
+",tc
+滬港通,請問滬股通證券買賣接受什麼指示盤？,滬股通證券買賣一律只接受限價盤。你的限價盤指示會於開盤集合競價時段送出市場。,tc
+滬港通,北向交易的交收安排為何？,與港股的交收安排不同，北向交易會按照上交所A股市場的交收週期進行。證券交收會於交易日（T日）進行，款項交收則會於T+1日進行。,tc
+滬港通,請問我可以於買入滬股通證券當天即時將該證券賣出嗎？另外，我可以將即日賣出證券的款項即時買入其他的滬股通證券嗎？,不可以，北向交易不允許進行即日買賣，你於交易日（T日）買入的滬股通證券只可以於T+1日或之後賣出。另外，因為款項交收會於T+1日進行，你不可以將即日賣出證券的款項即時買入其他滬股通證券。,tc
+滬港通,請問我的滬股通證券買賣指示可以更改或取消嗎？,北向交易不允許更改買賣指示。如欲更改買賣指示，你必須先取消原有未執行的買賣指示，於成功取消後，閣下可重新提交新的買賣指示。,tc
+滬港通,買賣滬股通證券，需要繳付什麼費用？,你需支付第三者費用如經手費、證管費、過戶費、交易印花稅，以及本行費用如經紀佣金。詳情請參閱「投資產品服務收費」。有關費用會以人民幣支付。,tc
+滬港通,滬股通證券會在什麼情況下被暫停買入？,"你於下列情況下將不可以買入滬股通證券：
+							a)該等證券不再屬於有關指數成份股；
+							b)該等證券被實施風險警示；
+							c)該等證券相應的H股不再在聯交所掛牌買賣；
+							d)每日額度餘額降至零或以下；
+							e)總額度餘額少於每日額度。",tc
+滬港通,滬股通證券的每手單位 / 碎股、買賣規模及最低上落價位如何？,所有滬股通證券每手均為100股（必須以整手發出買入指示），僅沽出指示可接納碎股。滬股通證券最低上落價位劃一為人民幣0.01元。每宗單一買賣指示之最高限額為100萬股。,tc
+滬港通,請問我的買入指示有可能會以碎股成交？,你的買入指示的最終成交股數有可能出現碎股。,tc
+滬港通,惡劣天氣情況下，會如何安排？,"北向交易在惡劣天氣情況下的交易安排如下：
+若上交所通知由於惡劣天氣下一交易日可能暫停A 股交易，聯交所將會相應地通知香港市場。
+假如 8 號（或以上）颱風訊號及 / 黑色暴雨警告在香港市場開市前發出，北向交易將暫停服務。當該訊號停止，北向交易按照現行香港做法恢復交易。（詳情請參閱香港交易所網站：http://www.hkex.com.hk/chi/market/typhoons/tradingarrangement_c.htm）
+假如 8 號（或以上）颱風訊號在香港市場開市後但上海市場開市前發出（9時至9時15分之間），北向交易將暫停服務。
+假如 8 號（或以上）颱風訊號在上海市場開市後才發出，於訊號發出後15分鐘後將停止交易。之後只會接受取消買賣指示直至上交所收市。
+
+
+
+
+情況
+北向交易
+香港市場現有安排
+
+
+八號颱風訊號 / 黑色暴雨警告於香港市場開市前發出(即早上9時前)
+不開放
+不開放
+
+
+八號颱風訊號於早上9時至9時15分之間發出
+不開放
+開市前時段後停止交易
+
+
+八號颱風訊號於早上9時至9時15分之間發出（即早上9時15分）
+15分鐘後停止交易，之後只接受取消買賣指示直至上交所收市
+15分鐘後停止交易
+
+
+黑色暴雨警告於香港市場開市後發出
+如常交易
+如常交易
+
+
+八號颱風訊號 / 黑色暴雨警告於中午12時前解除
+兩小時後恢復交易
+兩小時後恢復交易
+
+
+八號颱風訊號 / 黑色暴雨警告於中午12時後解除
+不開放
+不開放
+
+
+",tc
+滬港通,我已持有證券交易戶口，可否即時買賣滬股通證券？,你只需為現有的證劵交易戶口設定人民幣結算戶口，即可於下一個工作天買賣滬股通證券。如欲設定證劵交易戶口的結算戶口，請即登入網上理財或親臨分行辦理。,tc
+滬港通,我已持有證券交易戶口，但未設定證券交易戶口的人民幣結算戶口，該怎麼辦？,如欲設定證劵交易戶口的結算戶口，請即登入網上理財或親臨分行辦理。,tc
+滬港通,我可否認購首次公開發售之滬股通證券新股？,不，滬港通並不支援首次公開招股。,tc
+滬港通,哪裡可獲取更多有關滬港通的資訊？,"你可透過香港交易所網站的「中國證券市場網頁」查閱更多有關滬港通的資訊，例如投資者資料文件、投資者常見問題、合資格股份、投資額度餘額等等。(網址：http://www.hkex.com.hk/chi/csm/chinaConnect.asp?LangCode=tc)買賣上海A股與港股的比較
+
+
+
+ 
+透過滬港通北向交易買賣上海A股
+於香港買賣港股
+
+
+可買賣證券
+- 上證180指數的成份股- 上證380指數的成份股- 同時在港交所及上交所上市的A股(不包括被實施風險警示及並非以人民幣買賣的證券)
+於港交所上市的所有證券
+
+
+額度
+總額度：人民幣3,000 億元每日額度：人民幣130億元
+沒有額度限制
+
+
+結算貨幣
+人民幣
+港幣
+
+
+每手股數
+每手均為100股
+每手股數按個別證券而定
+
+
+價格限制
+落盤價位不可超過前一日收市價的+/- 10%
+沒有規定
+
+
+最低上落價位
+劃一為人民幣0.01元
+按證券價格由港幣0.001元至5元不等
+
+
+交易時間
+開盤集合競價：09:15 – 09:25早市：09:30 – 11:30午市：13:00 – 15:00
+開市前時段：09:00 – 09:30早市：09:30 – 12:00延續早市：12:00-13:00午市：13:00 – 16:00收市競價交易時段：16:00-16:10
+
+
+交易日
+兩地市場均開放交易且兩地市場的銀行於相應的交收日均開放服務的工作日
+所有港交所交易日
+
+
+交收及結算
+證券交收：T日款項交收：T+1日
+證券及款項交收：T+2日
+
+
+回轉交易(即日鮮)
+不允許，剛於T日買入的證券僅可以於T+1日或之後賣出
+允許
+
+
+收費及稅項
+- 經手費(上交所收取)：成交額的0.00487%- 證管費(中國證監會收取)：成交額的0.002%- 過戶費(0.002%由中國結算收取，0.002%由香港結算收取)：成交額的0.004%- 交易印花稅(國家稅務總局收取)：成交金額的0.1% (賣貨)
+- 交易徵費(香港證監會收取)：成交額的0.0027%- 交易費(港交所收取)：成交額的0.005%- 印花稅(香港特區政府收取)：成交金額的0.1%
+
+
+",tc
+美國證券交易服務,中信銀行(國際)的美國證券交易服務包括什麼產品和服務？,"本行的美國證券交易服務提供美國上市證券的買賣及託管服務，包括在紐約證券交易所及納斯達克證券市場上市之證券。惟本行並不接受任何市值低於5,000萬美元及股價低於0.5美元之證券的買入指示。",tc
+美國證券交易服務,我可以於什麼渠道買賣美國證券？,"你可透過以下渠道買賣美國證券：
+網上理財 
+CITIC流動理財
+",tc
+美國證券交易服務,我可以於網上開立戶口買賣美國證券嗎？,現有客戶可於網上銀行開立證券賬戶，只須登入i-banking後於「開立戶口」頁面選擇開立「證券現金戶口」，並親臨分行完成W-8BEN 表格及市場數據展示服務協議即可買賣美國證券。如閣下為全新客戶或尚未開立網上銀行服務，客戶可親臨分行辨理。請注意，本行的證券買賣服務不適用於美國人士。,tc
+美國證券交易服務,什麼是W-8BEN表格？它是否需要更新？,W-8BEN 表格是用作向美國國稅局 (Internal Revenue Service) 申報非美國人士身份的文件。此表格是需要每 3 年更新一次。否則，於 W-8BEN 表格過期後所進行之美國證券交易將不會再按非美國人士之標準徵稅。,tc
+美國證券交易服務,何時為美國證券市場的交易時間？,"
+北半球夏令時段 - (香港時間) 21:30 - 04:00
+北半球冬令時段 - (香港時間) 22:30 - 05:00
+北半球夏令時段由每年三月的第二個星期日的凌晨 2am 開始。北半球冬令時段由每年十一月的第一個星期日的凌晨 2am 開始。 閣下可於(香港時間) 19:30至美國證券市場收市前經本行的網上銀行進行交易。閣下如有任何問題，可聯絡本行的美國證券服務專線(852) 2287 6688 尋求協助。服務時間(香港時間)：星期一至五全日[上午5時至9時(北半球夏天)及上午6時至9時、下午9時至10時(北半球冬天)及美國公眾假期除外]",tc
+美國證券交易服務,我需要多久才可以沽出我的證券及何時可以收到已沽售證券之金額 ？,閣下之證券可於買入後即時沽出。賣貨之金額將於賣貨執行後3日(即交易日後3個工作日)存入閣下之賬戶內。,tc
+美國證券交易服務,我可否於香港的公眾假期時買賣美國之證券？,可以，只要美國證券市場是交易日便可。,tc
+美國證券交易服務,投資海外的證券是否需要繳稅？,非美國人士買賣美國證券所得之資本收益可豁免繳付任何美國稅項，但所得之股息收入則須繳付30%之預扣稅。上述並非稅項建議，有關稅項問題，請諮詢個別之稅務顧問。,tc
+美國證券交易服務,美國證交會收費如何？,美國證交會收費即本行投資產品服務收費表上所指的銷售稅(Sales Tax)，是根據1934年證券交易所法而釐訂，這項費用適用於沽出交易所上市之證券。這項費用為個別收費，與經紀佣金及其他交易徵費不同。美國證券交易委員會將不時重估有關收費。,tc
+EIPO,甚麼是首次公開招股？,「首次公開招股」(IPO)是指一間公司首次向公眾投資者發行新股及將證券在證券交易所上市買賣。,tc
+EIPO,i-banking的網上認購新股服務能提供的服務是甚麼？,i-banking客戶可透過這項服務經網上認購首次發行的新股(黃表申請)。,tc
+EIPO,客戶需符合甚麼資格才可透過i-banking認購新股？,"客戶須：
+為本行的i-banking客戶(個人客戶)；
+為個人申請者；
+擁有有效之個人名義的證券戶口(黃表申請者)；
+個別公司於首次公開招股或許會接受非香港居民申請，詳情請參閱有關招股書。
+",tc
+EIPO,網上認購新股有什麼步驟？,"第一步 
+							於決定認購新股前，你應該細閱有關之招股書，才作出投資決定。你可於登入i-banking後，到 ""證券交易"" > ""新股認購""中取得有關之招股資料第二步  
+							按""網上認購""鍵及閣下欲申請之新股，細閱電子公開招股服務之條款及細則及一般條款，填寫申請表及發出有關之付款指示，以便我們於特定時間從你的指定賬戶扣除認購股款 第三步  
+							確認你的申請詳情及於網上遞交申請表後，你即獲發參考編號以作記錄 第四步  
+							請確保你的指定支賬賬戶有足夠款項以便我們於所定的時間過賬，否則有關申請將會自動作廢，亦不作另行通知",tc
+EIPO,是否可以修改或取消網上新股認購的申請？,不可以，申請表一旦獲得接納，即不得修改或取消。,tc
+EIPO,怎樣才知道申請是否已被成功遞交股份過戶登記處？,我們會於所指定的支賬賬戶中扣除申請股份所需之款項後把申請表於正式截止時間前送交股份過戶登記處。如申請表上有任何錯誤或所指定的支賬賬戶未有足夠款項，申請將會自動作廢，並不另行通知。,tc
+EIPO,怎樣取回因認購申請未獲成功分配而退回的認購金額，或因股價調整後而多付之申請金額？,"黃表申請者
+							退款將會於指定的退款日直接存入客戶的證券戶口內。白表申請者
+							發行人之股份過戶處將以支票形式把有關之認購金額退回客戶。退款支票將於發行人公佈之退款日期當天，以郵遞方式寄回客戶於網上認購新股服務申請表上所填報之地址。",tc
+EIPO,如認購申請成功地獲得分配，客戶會否收到證券? 客戶將怎樣取得獲分配之股份？,"黃表申請者
+							如客戶之申請全部或部份獲接納，所獲配發之證券將會直接存入客戶的證券戶口內。白表申請者
+							如客戶成功地獲得分配股份，發行人之股份過戶處將以客戶之名字登記而發出證券，並於發行人公佈之派發日期內，以郵遞方式把證券寄予客戶於網上認購新股服務申請表上所填報之地址。",tc
+EIPO,EIPO申請的手續費是多少？,有關資料以個別EIPO為準。,tc
+EIPO,可以登入自己的i-banking幫別人申請EIPO嗎？,不可以。,tc
+EIPO,認購新股公司股份涉及的風險,"認購高於投資者的需要
+							投資人士可能因未必會完全獲取其認購數量而認購多於自己的實際需要,但假如是次招股行動並沒有超額認購，投資者將會獲得所有認購的數量及支付全數應繳款項。 市場風險
+							當公司掛牌上市後，其股份有機會跌破招股價。 業務風險
+							決定投資之前，你應瞭解有關公司之業務性質，徹底細讀其招股書、公司財務報告、甚至尋求專業人士的意見，方才作出投資決定。",tc
+General Information of Securities Trading Service,Steps of Securities Trading via ibanking/CITICmobile,"
+Login to ibanking /  CITICmobile
+Click Securities Trading  > Choose Securities Trading Market (Hong Kong Securities Trading/Shanghai-HK  Stock Connect/US Securities Trading) > Trade
+Enter the required  trading order details > Submit
+Verify the order details  > Confirm
+A reference number will  be displayed if the order is accepted by the system (you can check the order  status via ""Order Status / Amendment""
+",en
+General Information of Securities Trading Service,What information do I need to provide to place an order of securities trading?,"You can place an Order on the Trade page, follow these steps:
+Enter the appropriate  Symbol at Quote Bar to get a quote for the securities you wish to trade.  (Please click on 'Symbol Lookup' if you do not know the Symbol for the security  you wish to view.)
+Select the appropriate  Securities Trading Account.
+Select the Transaction  Type (if applicable)
+Enter the appropriate  Stock Code. (Please click on 'Stock Code Lookup' if you do not know the Stock  Code for the security you wish to view.)
+Enter the number of  shares to buy or sell in the Quantity field.
+Enter the Limit Prices  (if applicable)
+Select  Good Till Day (if applicable)
+Click  'Submit' button to preview the order or 'Clear' button to clear all fields and  start from the beginning.
+Click 'Confirm' button to  place your order.
+An Order Confirmation will appear verifying that the order has been accepted for processing. A transaction number will also be issued to you.",en
+General Information of Securities Trading Service,When will China CITIC Bank International debit my securities purchase from my account when I am trading securities?,"Upon the Bank process the order, the purchase amount will be held on Securities Settlement Account. The actual debit of the money will take place on the settlement day. Money held between the placement day and the settlement day would continue to earn interest in your account.",en
+General Information of Securities Trading Service,How can I check Securities buying power via i-banking?,"You may select Securities Trading Account in Order Placement page and then can ""Check Settlement Account available balance"". You can see by currencies buying power at a glance.",en
+General Information of Securities Trading Service,How can I be sure that my order reaches the trading platform of China CITIC Bank International over the Internet and is being placed?,"An online order confirmation with a transaction reference number will be provided to you immediately. This confirmation indicates that we have received your order instruction. You will need to check the order status by clicking to find out whether your order has been filled. The status shows the stage at which your order is being processed.
+Pending – Order  is pending to process.
+Processing -  Order is processing.
+Queuing - Order  has not yet been filled.
+Fully executed  - Order has been completely executed.
+Partial  completed - Order has been partially executed.
+Expired - Order  has not been executed due to the expiration of the time condition set.
+Rejected -  Order has been rejected by particular reason.
+",en
+General Information of Securities Trading Service,How can I check my order status or execution result?,"Simply go to Securities Trading page, then you can choose ""Order Status / Amendment"" to check your order status or execution result. Also, You may opt to receive email or SMS for execution result.",en
+General Information of Securities Trading Service,"If I want to amend an open order, what should I do?","
+Click on ""Order Status /  Amendment"".
+Select Amend from the  Action column on the order intended to change and the Amend Order page will  appear.
+Enter order changes as  necessary in the fields provided. The existing order details are displayed on  the left for comparison.
+An Order Confirmation  will appear verifying that the order amendment has been accepted for  processing. From here you can click the Trade Status link to check the order  status. 
+Please note : Cancellation request will be promptly submitted to relevant exchanges for execution on a best effort. Any fully cancel request or open or partially filled order amended request cannot be guaranteed as the original order may be partially or fully executed. Cancellation or Amendment request is subject to the market conditions as well as prior execution of your original order.",en
+General Information of Securities Trading Service,"If I want to cancel an open or partially filled order, what should I do?","
+Click on ""Order Status / Amendment"".
+Select Cancel from the Action column and the Order Cancellation page will appear.
+To confirm the cancellation of your order by clicking the Cancel Order button.
+iClick the Cancel button if you have selected an incorrect order to cancel or you do not wish to cancel the order. If an error has occurred, the details will be displayed.
+A Confirmation page will appear verifying that the order cancellation has been accepted for processing. From here you can click the Order Status link to check the order status.
+If you have an outstanding order that is not yet filled in the market, you may cancel it by clicking 'Cancel' on the Trade Status page to proceed the cancellation. Please note that cancellation request will be promptly submitted to relevant exchanges for execution on a best effort basis. Any fully cancel request or open or partially filled order amendment request cannot be guaranteed as the original order may be partially or fully executed. Cancellation or Amendment request is subject to the market conditions as well as prior execution of your original order.",en
+General Information of Securities Trading Service,What will be happened if the orders are not executed by the end of the Good Till Day?,All unmatched days orders will expire at the end of the Good Till Day. You will have to re-enter the order after the trading hours if you wish to keep the order for the next business day.,en
+General Information of Securities Trading Service,What can I see in trade status and balances when an outstanding order cancelled?,The withheld fund of the cancelled order will be released to Usable Balance for Trading immediately.,en
+General Information of Securities Trading Service,What can I see in trade status and balances when an outstanding order expired?,The order will be remarked in Trade Status as 'Expired' and withheld fund will be released to Usable Balance for Trading after Good Till Day market closed.,en
+General Information of Securities Trading Service,"What is the ""Average Cost"" shown in the Portfolio Summary?","The ""Average Cost"" is calculated using the weighted average purchases price and charge information available to the Bank, and the amount is displayed for indication only.If you have US securities bought on or before 27 Feb 2015, the market closing price of 27 Feb 2015 is used as the weighted Average Cost of such holdings.",en
+General Information of Securities Trading Service,Is there any per order transaction limit for Securities Trading Service?,"Yes, at present, the per order transaction limit for Securities Trading transaction is HK$2,000,000 or equivalent.",en
+General Information of Securities Trading Service,What type of statements do I receive?,"You will receive a Trade Confirmation whenever there is a transaction in your trading account. Monthly statements will be sent to you within the first seven business days of each calendar month, showing the cash balance and all securities in your Securities Trading account and all your transaction activities within the previous month. Alternatively, you can access your account information online.",en
+General Information of Securities Trading Service,"If I would like to have a reprint of my monthly statement or contract note, what should I do?",Duplicate statements can be issued on request. Please apply for reprints through our Securities Trading Service Hotline. Additional charges may apply.,en
+General Information of Securities Trading Service,How can I get further assistant?,"You can visit our branch or contact us over the phone (For Hong Kong and SSE Securities Trading, please call 2287 6088. For U.S. Securities Trading, please call 2287 6688).",en
+General Information of Securities Trading Service,"My order is not yet executed, why I have received SMS alert?","To strengthen security of our securities trading service, you will receive SMS alert after submitting your first securities trading order on each calendar day for each market.",en
+General Information of Securities Trading Service,Will I receive 3 SMS alerts if I place orders on all 3 markets?,"Yes, you will receive SMS alert after placing first order to each of all 3 markets on each calendar day.",en
+Hong Kong Securities Trading Services,Where can I trade Hong Kong Securities?,"You can trade Hong Kong Securities through the following channels:
+i-Banking  service
+CITICmobile
+Automated Securities Trading Hotline
+Manned Securities Trading Hotline
+",en
+Hong Kong Securities Trading Services,What order types can I choose?,"You may choose:
+At-Auction Limit Order
+Enhanced Limit Order
+Market Order
+Take Profit Order
+Stop Loss Order
+",en
+Hong Kong Securities Trading Services,Can I place odd lot order?,"Simply go to ""HK Securities Trading"" page under ""Securities Trading"", then you can choose ""Sell Odd-lot"", and enter your Odd-lot disposal order. Please note that no Odd-lot purchasing order is accepted.",en
+Hong Kong Securities Trading Services,"What is ""Good Till Date"" feature?","You can make use of ""Good Till Date"" (GTD) feature to place an order, which can valid for a maximum of eight trading days. The order with this feature will be treated as At-auction Limit Order when carrying forward to next day, and will be handle in Pre-opening Session. Please note that the order will not be carried to next trading day if it was partially executed, full executed, cancelled or rejected.",en
+Hong Kong Securities Trading Services,"Why the order is rejected with an alert message ""The input price is out of the spread range""?",We only accept At-auction Limit Order within 199-price spread and Enhanced Limit Order within 23-price spread of the nominal price. Instructions that out of the spread will be rejected.,en
+Hong Kong Securities Trading Services,What is the minimum price spreads for different stock price range?,"
+
+
+Price from (HK$)
+Minimum Spread
+
+
+0.01
+0.001
+
+
+0.25
+0.005
+
+
+0.50
+0.010
+
+
+1.00
+0.010
+
+
+2.00
+0.010
+
+
+5.00
+0.010
+
+
+10.00
+0.020
+
+
+20.00
+0.050
+
+
+100.00
+0.100
+
+
+200.00
+0.200
+
+
+500.00
+0.500
+
+
+1000.00
+1.000
+
+
+2000.00
+2.000
+
+
+5,000.00 to 9,995.00
+5.000
+
+
+",en
+Hong Kong Securities Trading Services,How can I amend or cancel my order via ibanking / CITIC mobile?,"Simply go to ""HK Securities Trading"" under ""Securities Trading"", then you can choose ""Order Status / Amendment"" to amend or cancel your order. Please note that confirmed odd-lot selling order instruction cannot be amended or cancelled.",en
+Hong Kong Securities Trading Services,"After placing a securities trading order on Internet, can I enquire or place amendment / cancellation instruction through other channels?","Yes, you can check, amend or cancel your order by cross channels, i.e. you may do it via Automated Securities Trading Hotline, Manned Securities Trading Hotline or CITIC mobile.",en
+Hong Kong Securities Trading Services,What is the settlement arrangement for Hong Kong Secuirties Trading?,Hong Kong Securities Trading will follow HKEX settlement cycle. Securities and money settlement will be on T+2 day.,en
+Hong Kong Securities Trading Services,What should be noted when doing Dual Counter (RMB and HKD counters) securities transactions?,"When trading Dual Counter (RMB and HKD counters) securities trading, please note that if the issuer pays dividends in RMB only, you are required to hold a RMB settlement account to receive RMB dividends.",en
+Hong Kong Securities Trading Services,What should be noted when trading with securities under the Nasdaq-Amex Pilot Program (PP)?,The securities under the Nasdaq-Amex Pilot Program (PP) are aimed at sophisticated investors. You should consult the licensed or registered person and become familiarized with the PP before trading in the PP securities. You should be aware that the PP securities are not regulated as a primary or secondary listing on the Main Board or the Growth Enterprise Market of The Stock Exchange of Hong Kong Limited.,en
+Shanghai-Hong Kong Stock Connect,What is Shanghai-Hong Kong Stock Connect?,"Shanghai-Hong Kong Stock Connect ('SH-HK Connect') is a securities trading and clearing links programme to be developed by Hong Kong Exchanges and Clearing Limited ('HKEX'), Shanghai Stock Exchange ('SSE') and China Securities Depository and Clearing Corporation Limited ('ChinaClear'), aiming to achieve a breakthrough in mutual market access between the Mainland and Hong Kong.Under SH-HK Connect, The Stock Exchange of Hong Kong Limited ('SEHK'), a wholly-owned subsidiary of HKEX, and SSE will establish mutual order-routing connectivity and related technical infrastructure to enable investors of their respective market to trade designated equity securities listed in the other's market.China Connect - refers to the mutual market access between the SEHK and SSE, this is a programme that links the stock markets in Shanghai and Hong for securities trading and settlement established by SEHK, SSE, HKEX and ChinaClear.Southbound Trading Link (STL) - Eligible investors in Mainland China can place orders to trade eligible shares listed on the SEHK through Mainland securities firms and a securities trading service company established by SSE by routing the orders to the SEHK. The eligible securities include the constituent stocks of the Hang Seng Composite LargeCap Index and the Hang Seng Composite MidCap Index, and the shares of all companies listed on both the SSE and SEHK.Northbound Trading Link (NTL) - Hong Kong and overseas investors can place orders to trade eligible shares listed on the SSE through their local brokers and a securities trading service company established by the SEHK by routing the orders to the SSE. Shares eligible to be accepted as an 'SSE Securities' to trade through NTL shall comprise all constituent stocks of the SSE180 Index and SSE380 Index, and shares of all SSE-listed companies that have issued both A and H shares (excluding shares that are not traded in RMB and those under risk alert board)",en
+Shanghai-Hong Kong Stock Connect,Where can I trade SSE Securities?,"You can trade SSE Securities through the following channels:
+i-Banking service 
+CITICmobile
+Automated Securities Trading Hotline
+Manned Securities Trading Hotline
+",en
+Shanghai-Hong Kong Stock Connect,What kind of order can I enter when trading SSE Securities?,Only Limit Order is accepted. Your limit order can be sent in the Opening Call Auction session.,en
+Shanghai-Hong Kong Stock Connect,What is the settlement arrangement for Northbound Trading?,"The settlement arrangement will be different to Hong Kong Securities Trading. Northbound Trading will follow SSE A-share settlement cycle. Securities settlement will be on T day, while money settlement will be on T+1 day.",en
+Shanghai-Hong Kong Stock Connect,"Can I sell the SSE Securities I have bought before its settlement? In addition, can I use the funds from selling a SSE Security to buy a new SSE Security before its settlement?","No. Day trading is not allowed for Northbound Trading. Therefore, you can only sell the shares on and after T+1 day. In addition, since the money settlement will be on T+1 day, you cannot use the fund from selling the SSE securities to buy another SSE Securities at the same day.",en
+Shanghai-Hong Kong Stock Connect,Can I amend or cancel my SSE Securities trading order?,"Order amendment is not allowed for Northbound Trading. If you want to amend your trading order, you have to cancel the order first and place a new order after successfully cancelled.",en
+Shanghai-Hong Kong Stock Connect,What are the charges for trading of SSE Securities?,"You have to pay third-party charges such as handling fee, securities management fee, transfer fee, stamp duty as well as bank charges such as brokerage commission fee. For details, please refer to the Investment Products Service Fees and Charges. The fees will be charged in Renminbi.",en
+Shanghai-Hong Kong Stock Connect,Under what circumstances will the purchase of SSE Securities be suspended?,"Investors will not be able to buy SSE Securities under the following circumstances: 
+							a) the SSE Securities cease to be a constituent stock of the relevant indices; 
+							b) the SSE Securities are under risk alert board;
+							c) the corresponding H share of the SSE Securities cease to be traded on SEHK;
+							d) the Daily Quota Balance drops to zero or below;
+							e) the Aggregate Quota Balance is less than Daily Quota.",en
+Shanghai-Hong Kong Stock Connect,"What are the board lot/ odd lot, order size and price spread for SSE Securities?",The board lot size of all SSE Securities is 100 shares (buy orders must be in board lot). Odd lot trading is only available for sell orders. The price spread for SSE Securities is uniformly set at RMB0.01. The maximum order size is one million shares.,en
+Shanghai-Hong Kong Stock Connect,Will my buy order in board lot be executed resulting in odd lot trade?,"Yes, the executed quantities of your buy order may result in odd lots.",en
+Shanghai-Hong Kong Stock Connect,What is the contingency arrangement under severe weather conditions?,"Northbound Trading arrangement under severe weather conditions will be as follows:
+If SSE is suspended due  to bad weather, Northbound Trading will not open and SEHK will inform Hong Kong  market accordingly.
+If typhoon signal number  8 (or above) and/or black rainstorm warning is issued in Hong Kong before Hong  Kong market opens, Northbound Trading will not open. If the signal/warning is subsequently  discontinued on the same day, arrangement for the resumption of Northbound  Trading will follow that for the SEHK market (detailed arrangement is available  on the HKEX website at  http://www.hkex.com.hk/eng/market/typhoons/tradingarrangement.htm).
+If typhoon no. 8 (or  above) is issued in Hong Kong after Hong Kong market opens but before SSE  market opens (between 9:00 a.m. and 9:15 a.m.), Northbound Trading will not  open.
+If typhoon signal number  8 (or above) is issued in Hong Kong after SSE market has opened, trading will  terminate in 15 minutes after the signal was issued. Thereafter, only order  cancellation will be accepted until SSE market closed.
+
+
+
+
+Scenarios
+Northbound Trading Arrangement
+Hong Kong Market today
+
+
+T8/Black rainstorm issued before HK market opens (i.e. before 9:00 a.m.)
+Not open
+Not open
+
+
+T8 issued between 9:00 a.m. and 9:15 a.m.
+Not open
+Trading terminates after Pre-opening Session
+
+
+T8 issued after SSE market opens (i.e. 9:15 a.m.)
+Trading terminates in 15 minutes after T8 issuance, thereafter only order cancellation is allowed until SSE market closes
+Trading terminates in 15 minutes
+
+
+Black rainstorm issued after HK market opens (i.e. 9:00 a.m.)
+Trading continues as normal
+Trading continues as normal
+
+
+T8/Black rainstorm discontinued at or before 12:00 noon
+Trading resumes after 2 hours
+Trading resumes after 2 hours
+
+
+T8/Black rainstorm discontinued after 12:00 noon
+Not open
+Not open
+
+
+",en
+Shanghai-Hong Kong Stock Connect,"I already have a securities trading account with the Bank, can I trade SSE Securities instantly?","Once you have linked up a CNY settlement account with your securities trading account, you will be able to trade SSE securities from next working day. To link up a settlement account for an existing securities trading account, please login to our i-banking platform or visit our branches.",en
+Shanghai-Hong Kong Stock Connect,"I already have a securities trading account with the Bank but have not linked any CNY settlement account with the securities trading account, what should I do?","To set up a settlement account for an existing securities trading account, please visit our branches or login to our i-banking platform.",en
+Shanghai-Hong Kong Stock Connect,Can I subscribe for SSE Securities initial public offering ('IPO')?,No. SH-HK Connect does not support IPO.,en
+Shanghai-Hong Kong Stock Connect,Where can I obtain more information on SH-HK Connect?,"You can visit HKEX website's ""China Stock Markets Web"" to obtain information on SH-HK Connect, such as Information Book for Investors, Frequently Asked Questions for Investors, list of eligible stocks, quota balance, etc. (Website: http://www.hkex.com.hk/eng/csm/chinaConnect.asp?LangCode=en)Comparison between trading Shanghai A shares and Hong Kong stocks in Hong Kong
+
+
+
+ 
+Trading Shanghai A shares in Hong Kong
+Trading Hong Kong Stocks in Hong Kong
+
+
+Stocks available for trading
+- Constituent stocks of the SSE 180 Index- Constituent stocks of the SSE 380 Index- A shares listed on both HKEX and SSE (excluding Shanghai A shares on the risk alert board and those that are not traded in RMB)
+All stocks listed on HKEX
+
+
+Quota
+Aggregate Quota: CNY 300 billionDaily Quota: CNY 13 billion
+No limit
+
+
+Settlement currency
+RMB
+HKD
+
+
+Board lot size
+100 shares per each board lot
+Depends on the stock
+
+
+Price limit
+Order price cannot exceed +/-10% of the previous closing price
+No limit
+
+
+Tick size
+Flat fee of CNY 0.01
+Vary from HK$0.001 to HK$5, depending on the stock price
+
+
+Trading hours
+Call Auction session: 09:15-09:25Morning session: 09:30-11:30Afternoon session: 13:00-15:00
+Pre-opening session: 09:00-09:30Morning session: 09:30-12:00Extended Morning Session: 12:00-13:00Afternoon session: 13:00-16:00Closing Auction Session: 16:00-16:10
+
+
+Trading days
+All business days on which both markets are open for trading and banking services are available in both markets on the corresponding money settlement days
+All HKEX trading days
+
+
+Clearing and settlement
+Stocks clearing: T dayFunds settlement: T+1 day
+Stocks clearing and funds settlement: T+2 days
+
+
+Day trading
+Not allowed. Stocks purchased on T day can only be sold on or after T+1 day
+Allowed
+
+
+Fees and tax
+- Handling Fee (charged by SSE): 0.00487% of the transaction amount- Securities Management Fee (charged by China Securities Regulatory Commission): 0.002% of the transaction amount- Transfer Fee (0.002% charged by ChinaClear & 0.002% charged by HKSCC): 0.004% of the transaction amount - Stamp Duty (charged by State Administration of Taxation): 0.1% of the transaction amount (for sell trade only)
+- Transaction Levy (charged by SFC) : 0.0027% of the transaction amount- Trading Fee (charged by HKEX): 0.005% of the transaction amount- Stamp Duty (charged by HKSAR Government): 0.1% of the transaction amount (minimum charge : HK$1)
+
+
+",en
+U.S. Securities Trading Services,What is product and service coverage for U.S. Securities Trading Service offered by China CITIC Bank International?,"Our U.S. Securities Trading Service provides trading and custodian services for U.S. stocks listed in NYSE Equities Market and NASDAQ Stock Market. However, we do not accept any BUY order in any stocks with a market cap below USD 50 million and the price per share less than USD 0.50.",en
+U.S. Securities Trading Services,Where can I trade U.S. Securities?,"You can trade U.S. Securities through the following channels:
+i-Banking service
+CITICmobile
+",en
+U.S. Securities Trading Services,Can I open an account online for trading US securities?,"Existing customer can open a securities account through online banking, you can simply log in i-banking, then select open ""Securities Trading Account"" in the ""Account Opening"" page, and visit our branch to complete W-8BEN Form and Agreement for Market Data Display Services in order to trade US securities. If you are a new customer or do not have an i-banking account yet, you can visit our branch to apply the services. Please note US securities trading service is not applicable for US persons.",en
+U.S. Securities Trading Services,What is W-8BEN Form? Does it to be renewed?,"W-8BEN Form is a declaration form from Internal Revenue Service of the U.S. for investor to declare their identity of non-US citizenship. It is required to be renewed in every 3rd full succeeding years. Otherwise, withholding tax will be levied upon trading of US securities after the last W-8BEN is expired.",en
+U.S. Securities Trading Services,When is the trading hours of the US securities markets?,"
+North Hemisphere Summer - 21:30 - 04:00 Hong Kong time
+North Hemisphere Winter - 22:30 - 05:00 Hong Kong time
+North Hemisphere Summer commences at 2am on the second Sunday of March of the year. North Hemisphere Winter commences at 2am on the first Sunday of November of the year. You can place an order through online banking from 19:30 (Hong Kong time) until the close of the US securities marketIf you have any enquiries, you can contact our US Securities Service Hotline at (852) 2287 6688 for assistance. Service Hours (Hong Kong Time): 
+							Mondays - Fridays Full Day [Except 5 - 9am (during North Hemisphere Summer) and 6 - 9am, 9 - 10pm (during North Hemisphere Winter) and US Public Holidays]",en
+U.S. Securities Trading Services,"How long to sell my securities, and when will I receive the money from selling securities?",Securities purchased can be sold immediately. The sale proceeds will be credited to your US securities trading account 3 days after the sales execution (i.e. T+3).,en
+U.S. Securities Trading Services,"During Hong Kong public holidays, can I trade my US securities?","Yes, trading will be available if US securities markets are open.",en
+U.S. Securities Trading Services,Any tax implications would apply to me when I hold foreign securities?,"There is no capital gain tax for non-US persons on trading US securities. However, non US person are subject to a 30% withholding tax on dividends. This is not a tax advice and any tax related questions should be referred to their own individual tax consultant.",en
+U.S. Securities Trading Services,What is the US SEC Fee?,"US SEC Fee is the Sales Tax as stated in Investment Products Service Fees and Charges of the Bank, it was created by the Securities Exchange Act of 1934 to be an additional transaction cost attached to the selling of exchange-listed equities. This fee is usually listed as a separate fee, independent of any associated brokerage commissions or fees. The fee will be revalued by the US Securities and Exchange Commission from time to time.",en
+EIPO,What is IPO?,"IPO represents Initial Public Offering where a company, for its first time, issues shares to investors and get listed on a Stock Exchange.",en
+EIPO,What can EIPO service offers you?,Our EIPO service aims to provide an access to subscribe (yellow form application) newly listed shares from Initial Public Offering via the internet.,en
+EIPO,Who is eligible to make an IPO application through EIPO service?,"Eligible applicant must:
+be our i-banking customer(personal customer);
+be an individual applicant;
+have a valid securities trading account (yellow form application);
+Some companies may accept IPO applications from non Hong Kong residents. Please refer to respective Prospectus for details.
+",en
+EIPO,How to apply for IPO shares online?,"Step 1 
+							Read the Prospectus thoroughly before making your decision to subscribe the shares under IPO. The electronic prospectus is available under ""Securities Trading"" > ""EIPO"" in this website. Step 2 
+							Click the ""Apply"" button and the Stock you would like to apply for. Read the terms and conditions, complete the application form and place your payment instruction which allows us to debit the subscription amount from your designated account at the specified time stated for individual IPO. Step 3 
+							Confirm your application details and submit the application. A reference number will be generated for your reference. Step 4 
+							Make sure your designated account has sufficient fund for settlement at the specified time of individual IPO. Otherwise, your application will be cancelled without further notice.",en
+EIPO,Can I amend or cancel my online IPO application?,"No, once you have submitted the application and confirmed the details, you cannot amend any application details or cancel your application.",en
+EIPO,How do I know my EIPO application has been submitted to the Share Registrars for allotment?,"We will send your application to the Share Registrars on or before the IPO official closing time. In case there is any incorrect information or your designated account has insufficient fund for settlement, your application will be cancelled without further notice.",en
+EIPO,How can I get a refund for a wholly or partially unsuccessful EIPO application or any surplus application money?,"For Yellow Form Applicants
+							the application money (or part thereof) will be credited directly to your Securities Trading account on the refund day specified in the respective Prospectus.For White Form Applicants
+							The Share Registrars of the issuer will refund any application money due to you by a cheque made out to you. The refund cheque will be sent by ordinary post to the address as specified on the EIPO Application form on the refund date as announced by the issuer.",en
+EIPO,How do I receive the allotted shares if my application is successful or partially successful?,"For yellow Form Applicants:
+							If your application is wholly or partially successful, your share certificate(s) will be directly deposited into your Securities Trading account.For White Form Applicants:
+							If your application for shares is successful in whole or in part, the Share Registrars of the issuer will issue share certificate(s) in your name and send it to the address as supplied by you on the EIPO Application form on the despatch date as announced by the issuer.",en
+EIPO,Is there any service charge for the EIPO service?, Please refer to the details of respective EIPO.,en
+EIPO,Can I make EIPO application on behalf of others?,No,en
+EIPO,Risks associated with IPO,"Over-subscribing to an IPO
+							In some cases IPOs are oversubscribed with requests for shares and the company may be required to go through an allocation process. Investors may be tempted to oversubscribe to an IPO and initially buy more shares than required with the assumption that they will not be allocated for the full amount. However, if the IPO is not oversubscribed, investors will receive all their requested shares and incur the full cost. Market risk
+							The risk that the company's share price may drop below their initial IPO price, once the company becomes traded on the stock market. Company Risk
+							It is vital to understand the company and its business you are investing in. You should therefore study thoroughly the prospectus, financial reports and even seek professional advice prior to making an investment decision.",en
