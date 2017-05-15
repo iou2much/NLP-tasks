@@ -202,7 +202,7 @@ def to26(num):
 #char_map()
 def get_char_map():
     map={}
-    char_map_str = open('char_map.txt').read()
+    char_map_str = open('./asr_for_cantonese/dataset/char_map.txt').read()
     for line in char_map_str.strip().split('\n'):
         ch, index = line.split()
         map[ch] = index

@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 .pyc
+.log
+.csv
+.bak
+__pycache__
