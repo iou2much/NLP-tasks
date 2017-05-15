@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: deepspeech
+Version: 0.0.1
+Summary: A library for running inference on a DeepSpeech model
+Home-page: https://github.com/mozilla/DeepSpeech
+Author: Chris Lord
+Author-email: chrislord.net@gmail.com
+License: MPL-2.0
+Description: UNKNOWN
+Platform: UNKNOWN

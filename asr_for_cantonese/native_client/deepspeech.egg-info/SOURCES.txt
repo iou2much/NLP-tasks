@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+deepspeech.egg-info/PKG-INFO
+deepspeech.egg-info/SOURCES.txt
+deepspeech.egg-info/dependency_links.txt
+deepspeech.egg-info/top_level.txt
+python/__init__.py
+python/deepspeech.i
+python/deepspeech.py
