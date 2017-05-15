@@ -223,7 +223,7 @@ def decode_str(txt):
     chars = txt.split(' ')
     res = []
     for c in chars:
-        res.append(map.get(c,""))
+        res.append(map.get(c," "))
     return ''.join(res)
 
 def encode_bibles():
