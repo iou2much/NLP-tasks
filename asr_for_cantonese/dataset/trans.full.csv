@@ -1,0 +1,887 @@
+wav_filename,wav_filesize,transcript
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_00.wav,122444,dax bfs ayj ade ahc afp bat csr aos boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_01.wav,73580,du daz bic ahc jb dib dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_02.wav,65932,dch bud btp blp bzo bbc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_03.wav,35660,ua asy bgs qg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_04.wav,90988,bic cdo cti clq re aqk lv asy ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_05.wav,127788,bic bhp ahs bhr bfg dgs bhr aml bfg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_06.wav,57164,bic ayq bfg bud cdf cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_07.wav,65868,dgs no bfg qg rm cfl aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_08.wav,292588,bic agg bfg xy adq agg qg xy ahb bhr hk ahr bhr cxn agd ais bud bnz ckh cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_09.wav,217740,bic bhp cwj lv abr ald ahs bhr btp com aes lv rm xy ahr cte
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_10.wav,353100,bic dgs jb clw btp com aes btp com cem cte cdo lv btp com cem ahr cdo lv rm cfl aml jh dgs ais dby cah aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_11.wav,167276,bic agg btp com xy dib bhr hk ahr bhr cxn agd bud csr ccd cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_12.wav,29260,bic bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_13.wav,131788,dib cte cdo lv ahs awe aqk ckh byi awy dgu dch bqq clw dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_14.wav,56300,jh dgs ais dby cah aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_15.wav,63980,bic agg dgu dch xy dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_16.wav,266444,agg lv cdo awe byi xy arh bic ayq cyi bud cdf cdo bic bhp dch ahs brh cg bnb avk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_17.wav,424172,bkk qb ty xi cdo cvs brk cew qb cjg xi cdo bvt bhd ip bcp bcy bfh cjg xi aeh buz cyi cex jh dgs ais dby cah aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_18.wav,66828,aqj bud dch brh cg aml bnb avk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_19.wav,442988,bkk qb ty xi cdo cvs brk ip bcp bcy bfh cew qb cjg xi cdo bvt bhd ip bcp bcy bfh cjg xi aeh buz cyi cex
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_20.wav,170668,bic ayq cyi bud cdf cdo bhr hk ahr bhr cxn agd
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_21.wav,38444,bud csr brv cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_22.wav,331020,bic bhp dib ahr ahs bhr bfg cfw djg cem rm adq ahb csl bat alm xm daw cx cz xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_23.wav,10892,tx ajz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_24.wav,236716,cew ahs brh bfg aqk dib btp civ cm aqk dch ahr jh dgs ais dby cah aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_25.wav,284268,aqj bud bic jb aml ddn cpi bzq bfg bzq cdo dfv adq cpz cdo dfv ahb cpw jb ed aar
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_26.wav,585772,dgs no ais azy bfg ki auc aqk dib btp civ cm aqk dch ahr dfv baw adq ahb rm bby awq qg bic ayq cyi bud cdf cdo bhr hk ahr bhr cxn agd bud csr ctw cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_27.wav,21996,bic bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_28.wav,105804,lv ahs bxi bxi bje cg bhr cg bfu cdo ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_29.wav,162060,ahs bhr bii bha oi aqk dch asy cem ahr dib btp abr deg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_30.wav,413036,bic dgs jb clw bzq bf bkk lv deg bqb bje cg ip dby bhr cg bfu cdo aqv ask ip bcp bcy bfh cpw jb clw ip dby oi bha ip bcp bcy bfh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_31.wav,58796,bic ayq cyi bud cdf cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_32.wav,539852,bic dgs cdn bug pi ais ckh ckt bhp bje cg ddh bxi gt azg arh deg cdo lv bii bha bnk ahs bxi cg aqk dch ahr bhr hk ahr bhr cxn agd bud csr uk cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_33.wav,441804,bic bhp dch ahs cg clw cny ask dad ip bcp bcy bfh dez cp bpf azr djp ctb ip bcp bcy bfh jh dgs ais dby cah aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_34.wav,452364,aqj bud bic jb clw djp ctb ip bcp bcy bfh dez cp ip bcp bcy bfh dch ahr ckh ckt bpf azr ip bcp bcy bfh bic ayq cyi bud cdf cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_35.wav,337612,bic bhp ays pu ahs cm cyi ays pu cdo ady cju czy cyi ays pu cdo dby cjv jb kb awy alk pu dfv baw arh baq cdo bf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_36.wav,267020,btp deg cdo bha dch ahr cdo dez cp bkk ayj dch cew dch ahr bqb dbw cdo ckh ckt bpf azr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_37.wav,248620,bic dgs cm cyi cdp div cdo ady cju jb kb cvx bud cm cyi alk cdo ady cju jb djy jb ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_38.wav,62892,bic dgs cdn bug pi alk pu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_39.wav,264396,cpw au alk pu bhp ahs cg bcf ed bxi aut azg dch asy akx baw ais dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_40.wav,68044,bnk ahs dfv baw arh baq cdo bf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_41.wav,160236,btp deg cdo bha bkk dch ahr ip dby re aqv cdo cny ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_42.wav,472332,bic bhp ayq md ays aes aut dch ahr ckh ckt qb ty xi cdo cvs brk bkk ckh ckt bvt ahr bqb qb bhr cex cdo cjg xi ayj cdn pi awp pu csl brc ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_43.wav,481484,djf aqj dch ahr cdo btq ctb bkk btp deg cdo oi bha cew ip dby dbw aqk dch ahr bhr cg bfu cdo ask ays aes bnb avk cdn pi axc pu csl brc ask jh dgs ais dby cah aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/01_chunk_44.wav,259980,bic ayq cyi ckh ckt bqb jb cdo aeh aed cdf bhr hk ahr bhr cxn agd bud csr aga cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_00.wav,60204,ahc afp bat csr cif boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_01.wav,78028,dib dch dfu ask aeh jb djn aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_02.wav,34156,dbl csr ddt cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_03.wav,85804,bic jb ask cdo bvo cna czk bfq del
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_04.wav,178476,dgs aqk csr ddt cz djd aml alk ckh ckt cdo bvo vo cri aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_05.wav,127948,bic cdn bug pi csr ddt cz xm xy tm cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_06.wav,169036,bdn xy aqk ais cz bic djd aml alk ckh ckt ahc jb cdo bvo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_07.wav,38988,dgs vo cri aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_08.wav,66028,ahc jb dib dch cdo dad csw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_09.wav,183660,aqk cbt bkk cqr bic jb dib dch cdo cz xi cvx bud ais dby
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_10.wav,76076,djp dch bti aka bhr avk bhd
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_11.wav,115468,bxq ald cdo cvs brk bti aka bhr cou du dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_12.wav,239404,bdn xy cbt bkk cqr bic bti aka bhr rc dhm aqk dch ahr bnk aka bhr kb abg dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_13.wav,90156,asp bhr ats com bcp dch ahr dca
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_14.wav,39788,bje bsv aut dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_15.wav,113452,cbt bkk cqr bic cke dch ahr cdo ax acw jb kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_16.wav,96652,aes cg com aim aqk alk dkf avf baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_17.wav,90604,alk dgs cah aml bhr cti cdo cny kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_18.wav,42188,bqm csb bvq dgg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_19.wav,165164,cbt bkk cqr bic aqk brr cvi cdo aki bnl aze aml ckh cpi bpt xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_20.wav,105548,no bqb jb cdo kb vo anm aqk dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_21.wav,151884,cbt bkk cqr bic awy ip dby cdo bvt bcp dch baq cou clw dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_22.wav,58988,djg cem bqn kb cdo dgb ayo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_23.wav,282732,bcy ahr cdo cjg xi cdf csl brc ask bpt xi dgg deg cpw bhr cg bfu bvt bkk rm bby bcl con cdo bvt
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_24.wav,141388,bhr jo bcp aki bnl ajk clw dad bje bsv dcd bpt xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_25.wav,72524,bcp dcd baq rm xy ctw bch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_26.wav,69644,csr ckh bch bqm csb cwm diq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_27.wav,121580,dgs bud cnc axz ev sz brq ayj dch cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_28.wav,60940,aqk dcd baq bhr oa xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_29.wav,90988,cew aoy dcd dch cdo oa xi bud cdf cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_30.wav,107788,aqk dcd baq cpw bhr aqb bnx bkk ajj ak cmc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_31.wav,82892,csr ccd bch jo bqm csb crn il
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_32.wav,94508,dgs bud cnc axz ayw am ayj dch cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_33.wav,91148,csr brv bch jo bqm csb aqq aux qb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_34.wav,192268,ajk aqk bvq cat cdo brr r csr ctw bch jo dgs bud wj brq jo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_35.wav,123532,cbt bkk cqr bic aes dcd kb vo anm aqk aki bnl bpt
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_36.wav,70764,awy alk cdg baw ayq cen
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_37.wav,616652,cbt bkk cqr bic aev aan alk bhp bpt deg ip dby bvt ahr cdo cjg xi awp djg cem ath cxw tr nm bud rm bby bcl con bvt ahr cdo cjg xi awp pj djg tr bdn xy awp tr cdo cz xi dcl xm azw cbt bkk cqr bic bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_38.wav,282412,dcd kb cjb ars pj cdf ays ahs xy alk jb ckh cpi bvg dey ahd bty alk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_39.wav,427628,cbt bkk cqr bic cke acw bqb jb cah cdo djp dch ip dby btq ctb bkk btp deg ip dby oi bha aeh ceb dbl dcd kb asy dkc ayq alk csb cjl biz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_40.wav,97516,dcd kb dbz dby csb ip dby cdo cny ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_41.wav,64492,dcd dgs bud axc cdo bqm cbm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_42.wav,242188,dcd kb mq pi ckh ckt dez cp bkk btp deg oi bha djp dch btq ctb aeh du aml bqm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_43.wav,132300,nm bud dcd kb aka bhr asw cnf bvg dey ahd bty alk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_44.wav,151340,cbt bkk cqr bic awy alk aru kq alk dgs kq aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_45.wav,94892,aqj bud ayf cte alk cdo ckh aat bdz bip
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_46.wav,57196,cpw no arf cxr du dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_47.wav,309452,cbt bkk cqr bic dgs cke dcd kb fk ahr bqb ayf cdo bdz bip jb cah ckh cpi ave kb aiq aig dbl dcd kb byk dkc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_48.wav,727308,dcd kb bhp ais bud ays bip deg cdo bip arf deg cdo arf djg cem agg aig xy ave kb bdn xy aig bud bcp djy kb fk ahr ayf clw dad cdo bdn aei kb ahs tw cfl ei dfp ly awz xi djr cxr ccd kb cah xy ckh cfw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/02_chunk_49.wav,184460,dgg avn cya awz ccd kb go fk bqq cfw cew pj cvp bre
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_00.wav,64652,ahc afp bat csr alw boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_01.wav,59500,cbt bkk cqr bic bqb jb cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_02.wav,138060,bgy bhr blb cwm bxq djp ckh ckt cdo cny ask cbc j bul
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_03.wav,47372,blb au ave kb bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_04.wav,53548,bic dew bud dcf bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_05.wav,153804,pj bgb awp pu tr bpt deg bqb bhr bvt ahr cdo cjg xi dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_06.wav,49484,ave kb au blb bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_07.wav,117228,bpt deg bvt ahr cdo cjg xi ays pu djg cem tr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_08.wav,121004,bgy bhr bpt dgg deg dcd bcx bvt ahr cdo cjg xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_09.wav,30476,bic rs bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_10.wav,181004,awp pu pj djg tr bnk pj djg cre atg cak awp pu azw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_11.wav,45644,blb au ave kb bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_12.wav,55532,awp pu pj ckh xm azw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_13.wav,187276,bdn xy bic aku bch awp pu tr cdo cz xi dgb cfb dgs awq bck aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_14.wav,112620,awp pu mq azs bic my aku bch bcl con
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_15.wav,18412,aqj bud
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_16.wav,217228,ave kb cnf dcd bcx bvt cdo cjg xi cdf csl brc ask bnk bqn kb cdo dgb ayo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_17.wav,56876,aoy bud djg adv avv cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_18.wav,305868,my awy kb bhr fh cuj dgs bdv cte cjg xi dad tr aml cpw pi aig zr cya aig zr cya bnk tr aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_19.wav,99500,alk pu ccd kb cdo dgb cfb dgs awq bck aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_20.wav,323276,axw aku bch cdp div bud go fk bqq cfw mq bzf bah amt cjg bvt cdo cxg xi xy cdp div cka csl asj xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_21.wav,161388,dib du aml bvm cjx cbt bkk cqr bic aqk bpt deg re btq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_22.wav,336876,dcd kb bkk alk awz xi js cnf bic cdo xx dkl dgs oq aqk bpt baq cdo bvt bhd deg dhl csi cbt bkk cqr bic cdo asy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_23.wav,184876,cbt bkk cqr bic dku ro dcd kb au alk bhp awp aqk md baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_24.wav,355052,alk bhp ays aqk bpt deg js cnf awp cdo xx dkl ays dgs awm bve bdn xy ays go fk bqq cfw ays mq oq aml cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_25.wav,141228,dgy dk bin awp go fk bqq cfw afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_26.wav,191820,kg xo awp tr aml ays aev aan awp pj djg tr cdo dcd bvt ahr cdo cjg xi dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_27.wav,27724,dcd kb bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_28.wav,109100,awp bqb cdn pi ays ly ays ctl ars cdo ave kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_29.wav,155308,aig no dcd bvt ahr cdo cjg xi pi ays ays dgs tr aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_30.wav,68492,cbt bkk cqr bic au ave kb bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_31.wav,252716,awp csl cdo bud cjl biz jh afr ave kb bhp dcd blb chl cvr ays ays dgs tr aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_32.wav,335948,cbt bkk cqr bic au blb bhp awp cof csl aml ais jh dgs dcl chk bsz lb cwm ckh ckt cdo dez cp djp ctb cbc aed
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_33.wav,135596,awp dcl cke tl xi re btq ga fk tr acw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_34.wav,121132,ays cpw ahs csb awp bkk ave kb cza aei xy dbg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_35.wav,157260,awp cdo cuz ccs bkk ave kb cdo cuz ccs bnk cza aei xy dbg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_36.wav,87468,ave kb cdo cuz ccs ahs brs awp cdo bnz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_37.wav,66156,awp ahs brs alk cdo ub byk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_38.wav,494412,cpw au ave kb bhp ays dcl bxi bxi amy avj awp caq bxo cdo cjj bcc awp cg alq xb ave dcl bxi chk cjj bcc awp dcl ckg dx awp zr cya awp zr cya dcl dfv ctm awp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_39.wav,47980,cpw au bvq dgg bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_40.wav,270188,awp cof js bcp awz xi cdo cdl tr aml ays bqb aev aan awp pj djg tr cdo dcd bvt ahr cdo cjg xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_41.wav,312140,dch dcl xy awp cdo bel pz chk bsz lb awp dcl ga fk gp cjj axw my bcp dch baq cak tr cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_42.wav,124684,dch dcl pi awp cou clw wp ht bkk fy cnw dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_43.wav,102572,awp bnk ahs tr bxq ald cdo cvs brk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_44.wav,115948,awp dcl cxb ajk azg asy axw cak crj dfn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_45.wav,173516,dw dbl awp bwe aml acw bdn xy awp bud bcp acw cxc clw cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_46.wav,138188,awp yk bud ax acw sa ahs bwe aqj ax acw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_47.wav,212076,bvq dgg pi alk awz xi du bqm csb beo xf bdn xy aig bud ed cg abr dfp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_48.wav,215180,cbt bkk cqr bic xy bvq dgg bkk alk awz xi cke aal xi csl cwr dii pi alk pu dbr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_49.wav,241420,cbt bkk cqr bic bhp dcd kb cna czk ly ays pu rd wk my aku bch bcl con
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_50.wav,219820,cbz aqk dbx bve alk ahg awx cpw bdv cg bfu bvt cdo cjg xi tr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_51.wav,224364,dgs did or cny cyi cbt bkk cqr bic mq alh brh alk clw aki bnl bpt bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_52.wav,57836,abg ty alk bqb cdp clw abr acw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_53.wav,253324,aqj bud no alk aqw clw bom aml cpw aqk aki bnl bpt cdo brr r vo cwp crn bob wj bkk ctw asy tt aqv brh cwy byt cdo xj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/03_chunk_54.wav,85356,ahs no cen cg bfu bvt cdo bch bob
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_00.wav,63180,ahc afp bat csr kd boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_01.wav,20428,bhr ckh cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_02.wav,98636,dcd kb bkk alk awz xi beo xf ctl un
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_03.wav,45548,beo xf dgs caq crc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_04.wav,37548,cg aml bcg dis
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_05.wav,56716,dgs bud cak cdo cxw atq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_06.wav,20044,mq bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_07.wav,103916,cbt bkk cqr awy ays cak aml ckh cpi djy xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_08.wav,93644,cpw cg aml bcg dis cdo iv abn bvq wj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_09.wav,142796,bvq wj bud dht byv cdo bcg dis bud ty dch cdo bhr ckh cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_10.wav,218188,bcg dis bzf dch baq cdo clw alq xy dct ask yz pi cbt bkk cqr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_11.wav,184588,bvq wj bnk aes alk byv aiv deg bnz cg cdo bkk byv cdo btx pn yz ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_12.wav,118220,cbt bkk cqr ayq deg aml bvq wj bkk alk cdo dct ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_13.wav,281740,nm bud ayq pj deg bcg dis bkk alk cdo dct ask bcg dis dgs bzq bzq dch brh ate cko aml cvl cdv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_14.wav,55084,cbt bkk cqr au bcg dis bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_15.wav,59756,awp xy cjl biz brh ate afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_16.wav,87660,awp xy cjl biz cko aml cvl cdv afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_17.wav,114028,awp ata re cak cdf dew pj bdh bqn dbm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_18.wav,127244,awp ata re cak pj cdf zc dgs ciq aqk bvx dkc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_19.wav,129516,axc dcl ckg dx awp awp bhz ahs op ciq axc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_20.wav,98988,bcg dis ly alk iv abn bvq wj bhp cdl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_21.wav,241804,ccd kb aai aqk bxq ald bcg dis du dad alh alk iv abn bvq wj no alk dap aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_22.wav,57644,cbt bkk cqr au bcg dis bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_23.wav,276684,awp iv abn bvq wj aqk md baq alk bhp ays pj aku bch ays dew bud ayq cen ays iv abn cdo dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_24.wav,31084,cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_25.wav,62444,awp csl aml cjl biz jh afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_26.wav,170476,awp iv abn cdo ast bhr xx dkl bcp dch baq bgi ays cnl dk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_27.wav,159756,dch cfl aml dfn bcp awp awx baq fe chk awp iv abn cdo ast
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_28.wav,99692,cbz aqk awp dcl bcp ais dch chk bsz lb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_29.wav,27564,awp ty dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_30.wav,62956,dch pj bkz pi awp der cao
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_31.wav,92172,awp dcl ajk tw djh cms aqk dch ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_32.wav,59980,bcg dis au cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_33.wav,140140,ays cdo ok ia axs dij qx aqj ays bqb my dgg cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_34.wav,374316,awp azs cgf aqw cwf ays tw cfl ais dch cem gf pj cnf awp asy ays dcl ajk tw djh cms aqk dch ahr cyl asw cnf ays cdo dcl dap ays
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_35.wav,50156,cbt bkk cqr au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_36.wav,99628,cyl dap bcg dis cdo dcl arr brd ddt cob
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_37.wav,215308,cbt bkk cqr dgs pi bcg dis aze ckh cpi bat alm atg cak kb asw cnf alk dgs dap alk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_38.wav,230156,aqj bud bcg dis tw cfl cbt bkk cqr cdo asy bom cjm aqk aki bnl brr r dih cak abr dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_39.wav,204556,bcg dis ly awz xi ctl un alk awz xi dgs caq crc cg aml cem bmb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_40.wav,265068,bcg dis adl jb aml ckh ke apj dgs czy cyi alk xb xi cdo bqm aes dcd apj csb csl cem bmb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_41.wav,48620,cem bmb cg cem bzf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_42.wav,66732,cem bzf cg agc dhn czu ahl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_43.wav,90188,agc dhn czu ahl cg ak acw ayn ahl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_44.wav,67404,ak acw ayn ahl cg brq pk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_45.wav,66668,brq pk db aml ddn cpi awz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_46.wav,56972,ckh cpi bqm csb bvq bzq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_47.wav,59948,ckh cpi bqm csb btz brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_48.wav,49548,bvq bzq cg czu bal
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_49.wav,165644,czu bal dgs bud cjm ps def dht bcf dez cp abr kb cdo cnk ch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_50.wav,93836,czu bal cdo iv abn bqm csb bbz bal
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_51.wav,127948,alk bud ckh ckt aiz kz aim dbu abr kb cdo cnk ch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_52.wav,92876,btz brq cpw cg aml acw bal bcg dis
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_53.wav,275148,alk bud alh jb ip dby alr bbr ahl cyp cdo wa csl bud alr bsj bbr bsj cdo cnk ch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_54.wav,108076,acw bal bcg dis cdo azc xi bud bzf ak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_55.wav,86540,brq pk au alk ddn cpi awz xi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_56.wav,126444,bvq bzq btz brq js ays cdo xx dkl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_57.wav,114284,brq pk cdo awz xi apl js ays cdo cdl dbh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_58.wav,124492,cpm tx kb brs ays ays no alk dap aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_59.wav,176236,bfc tx kb yw ays ays no alk awm aml wa csl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_60.wav,216972,ays dap cpm xh bhz brs cdp div ays awm ddo zx bhz yw yk fk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_61.wav,254860,ata dap bcg dis arr brd ddt cob dap brq pk dcl arr brd ddt aow ddt cob
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_62.wav,244492,bvq dgg cpw ly awz xi ctl un aig dgs cg aml ckh cpi xb xi du bqm csb apx ckr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_63.wav,23980,cxw atq bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_64.wav,142444,bic asz pi ays aze aml ckh cpi xb xi ew caj bvq wj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_65.wav,68940,bdn xy bcg dis dap aml alk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_66.wav,155532,apx ckr bnk cg aml ckh cpi xb xi du bqm csb cem dih xh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/04_chunk_67.wav,125964,dcd avn bkq kb axw coz dk cbt bkk cqr cdo bqm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_00.wav,62636,ahc afp bat csr zz boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_01.wav,82604,bvq dgg cdo cuz ew bat aqk cte asy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_02.wav,62092,dgg bic jb kb cdo cz xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_03.wav,100012,bud cm cyi cdp div cdo dby cjv jb cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_04.wav,55564,cew aoy jb djy jb ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_05.wav,72044,aqk alk pu brl jb cdo cz xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_06.wav,51852,bic cdn bug pi alk pu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_07.wav,34700,agg alk pu xy kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_08.wav,78828,bvq dgg cny dbl ckh cga brv aow ajz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_09.wav,40012,cg aml ckh cpi xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_10.wav,94412,ady cju dby cjv bkk cdp div rd wk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_11.wav,65196,dgs pi alk du bqm csb apx ckr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_12.wav,69516,bvq dgg cg apx ckr abr cuz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_13.wav,56812,cpw aqk afp bal cga tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_14.wav,63852,cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_15.wav,123404,bvq dgg djs cny aml tv cga brv aow ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_16.wav,83308,apx ckr cny dbl ckh cga bfm uk ajz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_17.wav,44716,cg aml cem dih xh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_18.wav,76204,apx ckr cg cem dih xh abr cuz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_19.wav,71500,cpw cny aml bal cga bfm ddt tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_20.wav,60428,cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_21.wav,124076,apx ckr djs cny aml tv cga ckh aow ccd ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_22.wav,132012,cem dih xh cny dbl tv aow ajz cg aml bcg cgp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_23.wav,267436,cem dih xh cg bcg cgp abr cuz cpw cny aml bal cga ckh aow uk tx cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_24.wav,129548,cem dih xh djs cny aml tv cga bfm uk ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_25.wav,131980,bcg cgp cny dbl ddt aow ajz cg aml ak auv auc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_26.wav,165740,bcg cgp cg ak auv auc abr cuz cpw cny aml bal cga ctw aow tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_27.wav,58284,cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_28.wav,120972,bcg cgp djs cny aml tv cga ckh aow ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_29.wav,139052,ak auv auc cny dbl aga aow uk ajz cg aml czu auc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_30.wav,155820,ak auv auc cg czu auc abr cuz cpw cny aml bal cga brv aow tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_31.wav,51628,cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_32.wav,133068,ak auv auc djs cny aml bal cga tv aow uk ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_33.wav,143340,czu auc cny dbl ckh cga aga aow ccd ajz cg aml cem bmb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_34.wav,218348,czu auc cg cem bmb abr cuz cpw cny aml bal cga tx cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_35.wav,118092,czu auc djs cny aml tv cga aga aow ccd ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_36.wav,157356,cem bmb cny dbl aga aow uk ajz cg aml ak acw ayn brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_37.wav,156748,cem bmb cg ak acw ayn brq abr cuz ly bic ctl re brv cga tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_38.wav,401804,cew aoy cg xb bcf ave cem bmb djs cny aml brv cga aga aow uk ajz cem bmb ly bic ctl re bic aes alk ayf bom alk dgs pj aqk afp aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_39.wav,350668,ak acw ayn brq cny dbl ckh cga bal aow ddt ajz cg aml brq pk ak acw ayn brq cg brq pk abr cuz cpw cny aml ddt cga bal aow ccd tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_40.wav,59308,cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_41.wav,140876,ak acw ayn brq djs cny aml tv cga aga aow tv ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_42.wav,150700,brq pk cny dbl ckh cga bal aow ccd ajz cg aml ckh cpi xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_43.wav,328876,pi alk du bqm csb dih bvq bhp ais cpi xb xi dcl xy ays pu cdo cvu csl bkk awx deg cdo gp cjj vo bfj ays pu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_44.wav,151500,ais cvu csl gp cjj bud bdn xy cbt bkk cqr bsz lb dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_45.wav,157740,brq pk cg dih bvq abr cuz cpw cny aml uk cga tv aow uk tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_46.wav,56012,cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_47.wav,126412,brq pk djs cny aml ddt cga ddt aow ddt ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/05_chunk_48.wav,140204,dih bvq uk cga ajz cg aml cmv dgp czu cdj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_00.wav,56620,ahc afp bat csr cck boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_01.wav,73580,dgg kb aqk afp ahr bxi du dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_02.wav,64396,cpw cg ave xb cdo avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_03.wav,259788,bic cdo xb xi pu ayq cnf kb cdo ave xi aji eh dgs ath cxw bek bfx db dad xy awz cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_04.wav,245068,kb cof bkr fb ast com ays cdo cti dgs pj did or cjm aqk alk baq asy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_05.wav,140428,crd cxc alk cdo cz xi bti djg dbl ckh cga ccd aow tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_06.wav,255916,dcd avn bkq bhr bor kb aqk dch ahr cuz dad bic cdo xb xi pu bkk kb cdo ave xi pu azb cxr cg xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_07.wav,94092,dcd dgs bud ahr ayw avo auo bhr bqm cdo kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_08.wav,426284,cbt bkk cqr cnf kb aqk dch ahr zc con aex bzq ga cz bqb atq cts cdo biv aeh bud con cbt bkk cqr dgs cuz caw jb kb aqk dch ahr bwl deg cu brs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_09.wav,466156,cbt bkk cqr bhp ays ahs aes bqb jb cdo kb bkk btq ctb cew bpf azr cem vk btp deg cdo oi bha aeh bcp dch ahr ctj amf bdn xy ays jb alk pu cuz caw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_10.wav,106348,bgy bhr dih bvq aqk cbt bkk cqr dgb dkc bdh ddu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_11.wav,365228,dih bvq cdo cuz ew bat aqk cte asy dih bvq bud cpi ddr kb aqk dgg avn cdo afp ew bud cpi bfq ayj kb dih bvq ly bic ctl re
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_12.wav,183820,dih bvq cg aml brv cpi xb xi dgs bud cmv dgp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_13.wav,168684,czu cdj afp to aqk bic asy dkc bfp cdd dch ahr azg aml yc dcn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_14.wav,115372,bic bta ayq afp to cnf bud bfp cdd aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_15.wav,157836,cyl bhr ast com cdo kb aqk dch ahr aeh bfp cdd aml re xy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_16.wav,239372,bic dgs au dih bvq bhp cyl bhr ast com cdo kb alk cdo biv bnz cna czk dad dbl ays asy dkc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_17.wav,236588,bdn xy dch ahr azg aml alk pu cdo yc dcn ays ahs no alk pu bkk dch ckh cew axg amf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_18.wav,929228,awp ahs cke bos cut bhd jb ckh nm cvi bnc rm ckh ald ckh ald dch jb baq bwc apo ahr cpq aoa cvi bnc cdo jb xa cvx bud ais dby ahs cou brv cga ac nx uk aow ac bzc brv aow ac cvi bnc ahr r ahs ajd afz bfg byi bzc ckh ac cvi bnc cdo bvx ahs cfl aqk fl r
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_19.wav,128908,cvi bnc ahs rm ahr deg cte brv czj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_20.wav,412684,ayq md ays ahs awy wl lv aog bvd aqk dch ahr axg amf dib cte cyl dch ahr bhr ast arf bhr com cri cdo cny ask bah ckh pj azw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_21.wav,60908,ays bhz ahs ly awp aze bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_22.wav,214540,awp ctl awp cdo awz ly xb xi xb wq aeh ahs dkm czr cvi bnc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_23.wav,369740,cyl bhr ast arf cdo cny ask cwa dby ddn cpi ckh csc ckh dfp awp ahs ceb dkm cvi bnc cdf aqk awp dcd baq baf ayj cg bfu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_24.wav,417516,oi bha ip bcp bcy bfh dez cp ip bcp bcy bfh dch ahr cdo bpf azr ip bcp bcy bfh cwa dby ddn cpi ahs dbl awp dcd baq cdf baf ayj cg bfu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/06_chunk_25.wav,420908,awp ahs bzf ip dby brc ask anj axq du dad cdf csl awp bkk axc pu cdo brc ask dih bvq dgs ais dby re cyl bic bqb aev aan cdo alk aeh cm dby re aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_00.wav,59916,ahc afp bat csr aph boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_01.wav,62092,cbt bkk cqr au dih bvq bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_02.wav,114604,awp bkk awp cdo ayj acl aeh ahs dkm czr cvi bnc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_03.wav,63788,bdn xy aqk ais afp ew deg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_04.wav,100812,ays cnf awp aqk ays asy dkc bud ddr kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_05.wav,56396,cyl agq cdk cdo cp bfh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_06.wav,146284,awp ahs ceb ddt csc ddt dfp pj agq cdk cdo cp bfh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_07.wav,63564,awp ahs ceb ckh csc ckh dfp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_08.wav,280492,btp deg cdo oi bha bnk ahs ceb ddt csc ddt dfp djg cem ajd ty cny aqk ayj dch ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_09.wav,53548,bdn xy bkz qx ddt dib
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_10.wav,107724,ays ahs rc dhm aqk dch ahr ctw aow adq ahb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_11.wav,81740,no ays bqb jb cdo ip ty cny ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_12.wav,59596,aeh bcp dch ahr ctj amf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_13.wav,121516,dih bvq dgs cit cyi cbt bkk cqr bqb aev aan cdo re aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_14.wav,102604,dgg wl lv aog bvd aqk dch ahr cdo avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_15.wav,55788,dih bvq cdi aga cga ajz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_16.wav,210860,dih bvq dgs ctl alk cdo awz bkk xb xi xb wq aeh dkm czr cvi bnc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_17.wav,44652,dhl csi wl lv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_18.wav,215436,agq cdk cdo cp bfh bkk pj agq cdk cdo cp bfh oi bha cew dch ahr ckh ckt cdo bpf azr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_19.wav,330092,aeh bud ckh au ckh au dch bhr csc bhr dfp dbl dih bvq dcd baq dkm czr cvi bnc aai azs bic bqb aev aan dih bvq cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_20.wav,133708,qx aml dcd ddt dib wl lv aog bvd aqk dch ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_21.wav,141676,dgg dih bvq aga cga ajz ccd cse aow ddt cz dcd ckh dib
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_22.wav,91756,bzq ua cdo cgl djb aeh btn cfl aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_23.wav,80940,dib ahr cdo dfe dhn bnk cly cfl aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_24.wav,153388,ctw aow adq ahb rc bzq dhm aqk dch ahr aai dgg dcd cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_25.wav,320428,dih bvq bkk alk brv cpi xb xi cmv dgp czu cdj cew dih bvq cdo awz xi bkk brv cpi xb wq aeh dkm czr cvi bnc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_26.wav,542444,alk pu bkk cga ctb ip bcp bcy bfh ckh ckt dez cp ip bcp bcy bfh dbw aqk dch ahr cdo bpf azr ip bcp bcy bfh ckh ckt tn bha ip bcp bcy bfh aeh dkm czr cvi bnc cyl bhr ast arf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_27.wav,244428,bhr com cri cdo cny ask aeh ckh au ckh au dch dbl dih bvq dcd baq dkm czr cvi bnc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_28.wav,246092,cyl bhr ast arf dkm czr cvi bnc cdo aeh bud bhr csc bhr dfp aai azs bic bqb aev aan dih bvq cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_29.wav,108044,cbt bkk cqr dgs no alk bkg aqk cvi bnc baq bnz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_30.wav,94092,wl lv aog bvd aqk dch ahr ctw aow dib
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_31.wav,155948,lv wr ahr cou no cvi bnc bcp dch ahr abz du
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_32.wav,38796,lv cyy auy bzq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_33.wav,93388,aqk dch ahr bzq bzq dch wr ahr cou
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_34.wav,100620,cvi bnc aqk lv asy ahr abz dad abz bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_35.wav,90764,lv cyy aqk dch ahr bt bcy auy bzq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_36.wav,79340,dib cte cdo bzc rw aeh ckq aka aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_37.wav,82988,lv cyy cwm rw bzc qx aow uk ac
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_38.wav,47820,rw uu aeh ckq aka aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_39.wav,399276,cyl aqk dch ahr bhr ast arf cdo aqv ask dgs bud oi bha dez cp btq ctb bkk dbw aqk dch ahr cdo bpf azr cem vk bqb bhr cdo kb aeh azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_40.wav,163500,cyl aqk dgu dch ahr dkf avf bhr com cri cdo cg cti aeh azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_41.wav,321548,cyl dch ahr ip bfh cdo cny ask djr kb ceb dez cp bpf azr cem vk btp deg cdo oi bha aeh bcp dch ahr ctj amf aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_42.wav,136716,nm ajd cte dih bvq bkk dcd azy ly alk ctl aqk cvi bnc baq cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/07_chunk_43.wav,157516,lv cyy auy bzq aqk dch ahr djs ckh cga uk aow dib
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_00.wav,60204,ahc afp bat csr bhu boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_01.wav,165004,bic bat brn dih bvq bkk dih bvq cvi bnc baq cdo ckh ckt btq ctb dez cp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_02.wav,115052,bic csb cjx aim dch lv cyy aks btb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_03.wav,112620,ua djb bkk dib ahr cdo dfe dhn aeh bmr apx aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_04.wav,87468,dib ahr cdo bzq dhm bnk boy cjm aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_05.wav,227244,lv bcp dch ahr aks axy qx aml ckh cga uk aow dib lv dgs aks bih ddt cse aow ddt cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_06.wav,153772,cvi bnc bag aqk bvq brq cec rw ahr lv cpw aks bih
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_07.wav,119372,dbl aow cse daz ckh cz rw bmc aeh cbz clw dad aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_08.wav,64556,qx aml ctw aow dib dih bvq cfl aml cvi bnc cdo dfe dhn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_09.wav,149580,aoe clw ckh nm bjw tu bom dcd bjw tu oi dad oi bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_10.wav,257900,dw dbl dch ahr cdo lv aeh aro aml alk cpw aoe clw ckh nm buo xi bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_11.wav,211404,ahs ayq ayq lv bcp dch ahr axy aml aka bhr asp aut dch ahr aeh bud lv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_12.wav,284620,buo xi akq pj cyi btb ub abr dch dgs cr dbl cvi bnc dih bvq dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_13.wav,107052,dih bvq ahg awx no buo xi fe dkm cvi bnc dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_14.wav,175788,alk cpw bwb aml ddt dib bkz no buo xi bcp cvi bnc aoe clw bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_15.wav,129420,dbl aml hk ahr buo xi cr dbl alk dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_16.wav,138252,dbq baq bsc cyi ckh cpi cid bv cte dad cdo dgk ccl cxg xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_17.wav,102700,dih bvq dgs aku bch dch ahr cdo lv axy aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_18.wav,207116,alk cpw bwb aml ddt dib aoe clw buo xi bom buo xi dgs pj bkz cr dad aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_19.wav,217292,dbl dih bvq aga cga bfm ckh ajz aai cse daz ckh cz dch ahr cdo lv aeh aro aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_20.wav,197516,dih bvq yq bom cvi bnc cdo el bta ayq mq cnf dch asy ahr aro aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_21.wav,68556,dbl aml ccd cse ccd aow ddt cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_22.wav,50988,dch dgs aeh aro aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_23.wav,42764,bic au dih bvq bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_24.wav,197004,awp bkk awp cdo awz xi xb xi xb wq aeh djg cem clw cvi bnc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_25.wav,516716,aqk awp dcd baq cyl bhr ast arf cdo cny ask dgs bud oi bha dez cp bkk ckh ckt dbw aqk dch ahr cdo bpf azr aeh ahs ceb clw dad csb axc aqk dch ahr bxi bxi bje cg bzq bzq cyr btf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_26.wav,535692,aqj bud dih bvq bkk alk cdo awz xi xb xi xb wq aeh clw dad aml ckh ckt btq ctb bpf azr oi bha bkk dch ahr bqb bhr cdo aqv ask ip bcp bcy bfh bnk aeh clw aml cvi bnc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_27.wav,94764,dih bvq xy cbt bkk cqr app aml ckh ke ql
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_28.wav,199340,bzf ip bfh agq cdk cdo dez cp oi bha yz aqk ql ahr xy vd dhy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_29.wav,272748,cbt bkk cqr me dcd aue aoa abr com dgs bwl baq bhp ays pj bkz bdn kb cdo bel pz bsz lb dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_30.wav,95404,kb bcp cpz avn bwl baq caq cyi con brn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_31.wav,163532,bnk pj bkz czy cyi ays axw re cdo amf ip ty cdo cny ask aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_32.wav,63212,dch bti bma ajd cdo avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_33.wav,18092,aif dhu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/08_chunk_34.wav,182956,ej aii bwv beo adq ahb dgs did pj bag cri aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_00.wav,59404,ahc afp bat csr ddf boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_01.wav,101004,bic cdn bug pi dih bvq bkk alk cdo xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_02.wav,38252,au alk pu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_03.wav,132236,awp pu ahs cg bcf ed bxi aut azg aml dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_04.wav,223596,cyl dch ahr cdo btq ctb bkk btp deg cdo oi bha aeh dcl bxy dbx bwp bve awp pu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_05.wav,241164,djr dch ahr ckh ckt cdo bpf azr cew arh baq ckh ckt cdo bf aeh azb dgr awp pu cdo awx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_06.wav,147404,cyl cny cyi cdo aqv ask aeh djg cem csl awp pu cdo brc ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_07.wav,147692,ais ckh ckt ays aeh cdn pi awp pu azs ctl cvs brk ckh dby
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_08.wav,142444,bgy cjb arf ceb cyi ast dcd dgs bud axc cdo cg bfu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_09.wav,38060,awp pu pj djg tr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_10.wav,37196,ajk awp pu ast
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_11.wav,43564,awm awp pu bfu cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_12.wav,70700,bah ccb bud ctb bud kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_13.wav,189900,ays dcl bvf alk cdo zc dgs bud bgi ip kb cdo abn iv bnk bud azs aei
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_14.wav,325868,cyl ajk kb ast cdo alk cdo ast bnk dcl brl kb bqb ajk bdn xy bic jb kb bud cm cdp div cdo ady cju jb cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_15.wav,173836,awp pu ahs cg bcf ed bxi aqk dch ahr eu bo ddh afc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_16.wav,120460,bic dgq dcw dih bvq bkk alk cdo xb xi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_17.wav,490508,ays ly awp pu bkk awp pu cdo cuz ccs aze bfs cew ly awp pu ais baq cdo ckh ckt cny ask dgs bud oi bha dez cp btq ctb cyl bcp cvi bnc baq clw dad cdo cny ask aze bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_18.wav,192268,ays ly awp pu aze bfs cyl bhr ast arf cdo pj bkz brl wl lv amf ajr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_19.wav,92428,bnk pj bkz bhr wl lv axg cdd dch aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_20.wav,209804,bic bhp ays ly awp pu cew awp pu ais baq cdo ip dby cny ask bqb aze cdo did bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_21.wav,40172,bud bhr bat alm cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_22.wav,81996,ays no akb aoe aqk ckw anr deg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_23.wav,109612,ais dgs djg csl ays ly dch aze bfs cdo bat alm aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_24.wav,201548,ays awy ckw anr el dch cdo avn bkq dcl bhr akb cbz aqk ckw anr deg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_25.wav,186476,ays mq bat brn ays ly awp pu bkk ip dby bhr ast arf cdo cny ask bqb aze cdo bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_26.wav,134252,lv dgs bkz pj aog bvd axg cdd ckh ckt bhr ast arf cdo ask aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_27.wav,70028,akb dcl cbz aqk ckw anr deg ays ayq cnf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_28.wav,243948,dgs ahs bat brn ays ly dch ahr ip dby bhr ast arf cdo cny ask bqb aze cdo did bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_29.wav,40812,bic au dih bvq bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_30.wav,169036,ais dgs bud ays ly dch ahr ckh ckt bhr ast arf abr ask aze bfs cdo bat alm aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_31.wav,58284,clw cvi bnc dih bvq cdo xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_32.wav,180428,dgs bud cmv dgp czu cdj dgp bud eo cgp cdo ei vs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_33.wav,198700,ais bud dih bvq cdo brv cpi xb xi alk pu cdo cuz ccs rm bz aqk ayj dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_34.wav,130764,dih bvq csl du aob cya dad coa aml ckh cpi ie bcu bpt
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_35.wav,83020,alk cja aml bpt deg cdo chz mq chh aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_36.wav,78476,aqk ps def baq go cyi fk xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_37.wav,274508,eo cgp cdo ei vs dgp ayq cnf alk ei vs go fk dgs dbl bwc r dk bin alk ddn cpi abn iv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_38.wav,159116,aqj bud cmv bkk czu cdj bzf bfn cwr dii afh aqk cgv ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_39.wav,288908,azi axy cyi dkm bom pi alk ei vs el ahr alk pu nc cyi cvl dgs ayq pj cnf ei vs cdo go fk dih bvq dhh aml chz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_40.wav,154156,aku bch cpz xb xi bgi alk bqb csl cdo jh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_41.wav,218060,dgs bhp eo cgp dgg chk bsz lb dcl pi alk abn iv csl bio vy cdo bio vy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_42.wav,471404,cpw bhp cbt bkk cqr cmv cdo bic bud wi dgg agg cup cdo avg eo cgp csl cmv cdo bio vy avg bic awy czu cdj aqe bmv awy alk cjm aqk cmv cdo ps def baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_43.wav,77612,cpw avg eo cgp csl alk cdo bio vy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_44.wav,28396,wl lv cem cuz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_45.wav,76812,dih bvq cpw cny aml brv cga uk aow tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/09_chunk_46.wav,105484,dih bvq djs cny aml tv cga uk aow ajz dgs azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_00.wav,61644,ahc afp bat csr aos akj boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_01.wav,213356,dih bvq cdo xb xi cmv dgp czu cdj cdo cuz ew bat aqk cte asy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_02.wav,133804,wl lv cem cuz alk pu aeh cg aml xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_03.wav,278220,czu cdj cdo xb xi bud bos kf ak ip ak ew czu bfq acw baz agc cwp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_04.wav,12524,act brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_05.wav,183052,bos kf cdo xb xi bud bvq am crn bzf ahl xa gn eo ak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_06.wav,215852,czu bfq cdo xb xi bud cem ahl cod alk clt crn act bxi bbl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_07.wav,326956,ais azy kb cdo cuz ccs aes ip cwb cdo dch acw arh blq rm cfl ars cjm ip ath ip cdo cvi ib bas bbq aze cwb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_08.wav,483372,dgp cdo xb xi bud ayw am pk zt cdj eo cgp ayw am cdo xb xi bud zt baz ev sz brq ayn cdj alk brq ak ayn cdj act eo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_09.wav,113452,brq ak cdo xb xi bud nv baz aux asp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_10.wav,159180,ayw am cpw cg bpm aec alk xy afp ahr avo bcn abr alz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_11.wav,124044,alk aqk cbt bkk cqr asy dkc bud cpi avo acq cdo bgn dhn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_12.wav,218124,bqb cem byu dbh bhp cju bpm aec aqk cbt bkk cqr asy dkc bud cpi avo acq cdo bgn dhn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_13.wav,280556,alk cwb cdo du bnz bud baz bby cem cao bvq cih cih dji aeh aqk nv bzf dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_14.wav,260652,alk bcp dcd dch clw dad wr bvq cat bom adl jb dji dji aac ahl jo wj eo brq bkk dji dji aac
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_15.wav,187148,eo brq deg ald cdo ahl agi ais dgs bud dcd bzq apj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_16.wav,109676,pk zt cg bob apz kb bvq bzf agc kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_17.wav,32876,ahl ev cwm kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_18.wav,42284,bzf cdj acw aqq kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_19.wav,43756,ccn cgb od apl kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_20.wav,105484,eo cgb bob aqq kb eo cut bml kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_21.wav,92364,bcp eo cut bml clw dad cdo bhr xo ahl xh kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_22.wav,682668,eo cgp cg cou xi zt fd cpw cg bla bkk cbt bpx cgb kb bvq bbu ahl kb kk eo ayn kb aqq bj kb bvq crn kb zt dji kb bvq bcs aux kb btz ak ahl kb ev hv kb cuz dad eo cgp cdo cwj bbq rm bz aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_23.wav,192332,eo cgp cdo ckz to bud bcp zt fd bgi crn brq bso cdo bob ahr dw dbl eo sq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_24.wav,245900,cpw bgi bqb bxi ak cpk bbu brq aek ak btz czm cdo bob ahr dw dbl brq cod
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_25.wav,264844,ais dgs bud dgp cdo cuz ccs ip ath alk pu cdo bas bbq cvi ib bqb cjm cdo dch acw coy cwb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_26.wav,214924,czu cdj cdo dbt dbt cmv bud aqq wj xi aqi abr cnk alk bnk cg aml xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_27.wav,219308,cmv cdo xb xi bud cem ary bvq cat bvq xa ayn bob cgg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_28.wav,184236,bvq asi bvq asi cdo xb xi bud bjw cgb dhn auv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_29.wav,64556,crn mb ak clt bvq xa ayn cg cod brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_30.wav,48300,cod brq cg aqq wj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_31.wav,430444,aqq wj cg aml ddn cpi xb xi ckh cpi bqm csb xa auv xa auv dgs bud rm cdo cxw atq bdn xy dcd avn kb dgs rm dch ars cjm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_32.wav,71564,xa auv cdo iv abn bqm csb bfs cn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_33.wav,367564,bfs cn cg bvq bbu aas cod auc ev sq ak xo cbt brq ev bxi asi bjw sq cgg brq bpl baz bob bvq cwm ak ahl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_34.wav,253356,nv baz gl cut ev sz brq bfs baz ais aeh bud bfs cn cdo xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_35.wav,487052,alk pu bqb cjm cdo dch cvi bud bcp agc cod dw dbl zt brh brr r cdo rw ais dgs bud cmv cdo xi aqi ip ath alk pu cdo bas bbq cvi ib bqb cjm cdo dch acw coy cwb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/10_chunk_36.wav,351948,ais azy aeh bud dih bvq brv cpi xb xi cdo bas bbq ip ath alk pu cdo bwd so aze cwb wl lv cem cuz alk pu aqk dch ahr rm xy coy cwb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_00.wav,63596,ahc afp bat csr aos aos boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_01.wav,19436,dcd avn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_02.wav,134572,dib cte kb cdo dfn dkl ib dbh aeh bud ckh dby
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_03.wav,277324,alk pu wr brr r afj bqh cdo avn bkq aqk nv bzf dch asw cnf ckh crp bkc bau dgs cjm aqk dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_04.wav,250732,alk pu cza aei axh xl bhp dad cnt ays pu ahs csl crw no crw bbn afz aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_05.wav,176396,alk pu dgs bzf crw dgg bjz bnz cpw bzf bjz wf dgg bvh aom alk pu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_06.wav,456396,dad cnt ays pu ahs adl jb ckh ke apj bkk ckh ke cxl cxl bmc acm dib xy ahs atm czc ays pu cdo bqm atg cak ays pu rm bz aqk ayj dch ahr cbt bkk cqr rc cay
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_07.wav,144044,ahs ayq ayq afp kb bqb adl jb cdo apj bkk cxl cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_08.wav,494284,ayq md alk pu cah xy ckh dby cdo kb chq aeh bud ckh dby cdo ib dbh azs cgf cof csl du ais jh dad cem cuz alk pu bqb ahs csl cdo jh dgs aka bhr pj cah dgs cdo aml ays pu cte bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_09.wav,548524,aqk dcd baq cko bqg alk pu cdo dfn dkl awy alk pu cdo ib dbh cza aei pj acm aqj bud cbt bkk cqr awy alk pu bcp dcd baq rm bz aqk ayj dch ahr alk pu dgs bag bvo pj jb dcd apj aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_10.wav,229644,bdn xy cbt bkk cqr aqk dcd baq cko bqg dib cte kb cdo ib dbh awy ed kb rm bz aqk ayj dch ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_11.wav,143436,bqb cem dcd apj bqm csb baz bby dgs bud cko bqg cdo cxw atq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_12.wav,143692,cmv cdo cuz ew bat aqk cte asy wl lv cem cuz ccd tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_13.wav,79020,cmv ckh cga ajz cg aml bvq xa ayn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_14.wav,198220,cmv cg bvq xa ayn abr cuz cpw cny aml uk cga tx cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_15.wav,140492,bvq xa ayn cny dbl brv aow uk ajz cg aml cod brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_16.wav,236908,bvq xa ayn cg cod brq abr cuz cpw cny aml ctw cga bfm brv tx cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_17.wav,122348,cod brq cny dbl brv aow ajz cg aml aqq wj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_18.wav,1299756,cod brq cg aqq wj abr cuz cpw cny aml ctw cga bfm brv tx cew aoy cg xb bcf ave aqq wj cny dbl brv aow ctw ajz cg aml xa auv aqq wj cg xa auv abr cuz cpw cny aml ctw cga brv aow tx cew aoy cg xb bcf ave xa auv cny dbl brv aow ajz cg aml brq cve xa auv cg brq cve abr cuz cpw cny aml ccd cga bfm tv tx cew aoy cg xb bcf ave brq cve cny dbl brv aow ccd ajz cg aml zt bol brq cve cg zt bol abr cuz cpw cny aml ccd cga bfm ddt tx cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_19.wav,107724,zt bol cny dbl brv aow ajz cg aml bzf bxk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_20.wav,129612,zt bol cg bzf bxk abr cuz cpw cny aml ccd cga tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_21.wav,51500,cew aoy cg xb bcf ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_22.wav,132972,bzf bxk cny dbl ccd aow tv ajz cg aml alk brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_23.wav,433292,bzf bxk cg alk brq abr cuz cpw cny aml ckh cga ckh aow tv tx cew aoy cg xb bcf ave alk brq cny dbl ddt aow ajz cg aml bvq wj asi bzf bxk ev asi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_24.wav,87500,alk brq cdo cuz ew bat aqk cte asy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_25.wav,172780,alk brq cg bvq wj asi bzf bxk ev asi ev asi cg h cak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_26.wav,212044,ev asi azw aqk alk cdo yk dch eo auv aux cdo bzx avr aqk alk ei vs alk brq abr bsg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_27.wav,498476,bvq wj asi bzf bxk ip db aml awz bvq wj asi cdo awz xi bqm csb ayn cur bzf bxk cdo awz xi bqm csb adn eo bud ev asi cdo ave xb ev asi bud adn eo bkk nw eo cdo ei vs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_28.wav,308140,ayn cur pj cg avw aka bhr cek xi alk brq ceb cyi alk xb xi bvq wj asi bkk alk aqi xi ev asi cdo xb xi h cak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/11_chunk_29.wav,549196,cew alk xb wq bvq wj asi cdo awz xi ayn cur clw aml eo auv aux cdo bzx avr ahs wr eo cgp dch bom alk pu btq dbl ev asi dgs cjm aqk dcd baq alk brq djs cny aml ccd cga bfm uk ajz dgs azw aqk ev asi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_00.wav,64332,ahc afp bat csr aos cif boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_01.wav,62156,cbt bkk cqr au bvq wj asi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_02.wav,218764,awp ahs tw cfl yk dch yk bbq ei acl wr ays bqb ahs cpb nv awp cdo dch bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_03.wav,291756,ays dcl csb awp cah xy bzq cwb ays dcl cdn bug pi awp csb awp cdo bqm xy bzq awp bnk ahs csb bby kb cak bug
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_04.wav,361068,xy awp aty bug cdo ays dcl cdn bug ly alk dcd bsz lb awp cdo ays dcl bsz lb alk dch ahr cdo dfu bbq aeh ahs bdn awp cak bug
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_05.wav,117164,bvq wj asi dgs cm cyi cbt bkk cqr cdo aev aan bom aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_06.wav,65100,h cak bnk bkk alk ctl bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_07.wav,138700,bvq wj asi clw ev asi cdo avn bkq tx ddt aow uk ajz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_08.wav,470284,bvq wj asi aes alk awz xi ayn cur bkk ckx xb h cak djr alk pu aqk ev asi bqb anj axq cdo yv ask bqb cak cdo kb dfn aeh ceb wr eo cgp dch bom alk pu dgs dbl aml eo cgp dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_09.wav,323244,bvq wj asi czk qx dcd dch dbl aml nv xj dch cvi bbu ahl ajm bvt dcd baq dcd avn eo cgp kb cjm aqk dcd dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_10.wav,403788,cbt bkk cqr bgi bvq wj asi di cbz bhp ays ahs no ais dch cdn pi awp cdo cuz ccs bvq wj asi dgs aqk dcd baq xy bgi alk di cbz cdo cbt bkk cqr app aml ckh ke ql
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_11.wav,173548,bcp dcd baq alk cpw afj dbl wj ckr ahl brr r cdo rw bwd afh ps def
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_12.wav,99372,zt r bud wj ckr ahl brr r bud bdd
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_13.wav,171308,alk aqk dcd baq cpw xy cbt bkk cqr app aml ckh ke ql
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_14.wav,107212,coz dk cbt bkk cqr cdo bqm cuz dad bvq wj asi cpw aks aks afj wr cgp dch bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_15.wav,296044,dcd dch arr asw bzy bkl bdn bzy bkl aed bzq bvq wj asi dgs cte jm vk bom ahs aqk dcd baq co ars aes aoi jm vk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_16.wav,122220,dgs au alk awz xi ayn cur bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_17.wav,88620,ays aku bch awp bud alc eh zs aji cdo wq kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_18.wav,614284,jm vk kb ayq cnf awp dcl bhp ais bud alk cdo awz xi alk pu dgs ahs dap ays bhz csb awp bma cny coz awp bhp awp bud ays cdo azc xi awy ays bdn awp cak bkc vo ays cdo bfu bnk bdn awp bma cny
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_19.wav,74252,vk djf bvq wj asi dbl aml jm vk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_20.wav,107628,jm vk kb ayq cnf dcd wq kb bt bcy aji eh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_21.wav,195180,xa ari cdo abq lh ayq cnf aml aig dgs aqk xa ari asy dkc bwx aqp aig
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_22.wav,100076,dcd wq kb dgs brl ceb dkm xa ari cdo ow bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_23.wav,713836,xa ari bdn ais wq kb dgs bgq cmg bvq wj asi bvq wj asi cak aml bgb bxi er byv bzk es csc bet dfp bet vy aub cbt bkk cqr bdn bvq wj asi awz xi ayn cur cdo bel pz rc bzq qc ly xa ari bkk alk cdo ayj acl xa ari dgs auu aml bvq wj asi dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_24.wav,228428,bhp awp ais bgi ays csl cdo bud cjl biz jh afr xy cjl biz aka bhr dk bin ays aig bud awp cdo awz xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_25.wav,404972,xy cjl biz bhp aig bud awp cdo azc xi cem gf ays no aig ayf dad ahs csl ays cdo awz xi cbz aqk awp cdo awz xi aqk ais baq djg cem ceb aig btq cnt
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/12_chunk_26.wav,224652,aqj bud xa ari aev aan kb aes bvq wj asi bkk alk awz xi cew alk bqb bhr cdo aeh dcx btq aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_00.wav,69420,ahc afp bat csr aos alw boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_01.wav,92172,bvq wj asi ceb cyi alk cdo awz xi ly h cak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_02.wav,156428,cew ckh ckt bqb bhr cdo aeh bcp jm vk ahr cgp dch bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_03.wav,113036,bvq wj asi cdo oa byy dez cp bt bxi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_04.wav,322316,alk bcp cgp dch aks aks wr wj ckr ahl bom dbl aml wj ckr ahl bkk bdd cdo deg ald dgs bud bcp dkc bwd afh ps def cdo dch cvi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_05.wav,211340,bnk bud alk du bsg app ql cdo dch cvi alk cpw aqk dcd baq coz dk cbt bkk cqr cdo bqm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_06.wav,189836,ly bvq wj asi ctl re cdo h cak bnk bhr er aiv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_07.wav,243084,byv aiv ps def dcd dch alc pj cte alk pu bdn xy alk pu cdo yv ask aed bxi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_08.wav,149068,awy alk pu pj my ctl ars dgg avn eo cgp kb ly cwm ahl btz kb aqk dcd dch ars cjm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_09.wav,117516,bvq wj asi cdo dht kb bkk h cak cdo dht kb rd cfx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_10.wav,132428,bvq wj asi dgs au h cak bhp awp ays pj djg rd cfx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_11.wav,253964,awp cdo dht kb bkk ays cdo dht kb bnk pj djg rd cfx bdn xy ays pu bud bip arf bau aho csl abn iv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_12.wav,72716,aut dch pj aeh aqk awp dgb dkc dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_13.wav,230028,bfd awp tw cfl ays awp bgi bbd ays dgs bgi bjh awp bgi bjh ays dgs bgi bbd
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_14.wav,543020,h cak gg ayo ayq cnf bfs axj jo cdo ayj bkc bau dw dbl ack avr aeh bud bje bsv cdo dcd dch aqk cbt bkk cqr bj amf bqb bxi ak cpk bbu brq cem bsg azs ctl cbt bkk cqr cdo bpt xi bnk cju jm vk dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_15.wav,249356,aqj bud h cak bfx cbv bfs axj jo cdo ayj bkc bau wr brr afj bqh alk pu dgs cza aei rm tw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_16.wav,304364,bvq wj asi cjm aqk eo cgp dch h cak cjm aqk bkc bau cdo apj ui aks aks dih bqh ps def dw dbl bqb bxi ak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_17.wav,749068,bqb bxi ak kb aqk cbt bkk cqr asy dkc zc bzq con bt h cak tw bby bvq wj asi cem cuz cbt bkk cqr au bvq wj asi bhp bcp awp bqb aqk cdo dch cvi awp gg ayo bgi brr zt cgp ddd bta ayq cyl awp bqb ayq cnf cdo ckh ckt dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_18.wav,151180,ays aeh ahs cdn pi awp bkk awp cdo cuz ccs dw dbl did or
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_19.wav,176684,ays bnk ahs awy awp cdo cuz ccs azs ctl dch ahr cdo ax cod dcd dby bxi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_20.wav,200588,kb ata my vi lg dch ahr cdo ax cod axw my vi lg awp cdo cuz ccs awp du dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_21.wav,69644,f abi btq aut ais dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/13_chunk_22.wav,225868,bdn xy ays dcl no ais dch cdn pi awp bvq wj asi dgs aie aml ps def dad dbl aqq wj gr axb ahl cdo ajm bvt dcd baq ars cjm aqk dcd baq xy cbt bkk cqr app aml ckh ke ql
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_00.wav,67532,ahc afp bat csr aos kd boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_01.wav,70572,dgg qg brq xo csl nv bzf qo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_02.wav,155372,bvq agp csl cem brq ayn qo crn bzq ari ak csl cem ary qo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_03.wav,79564,act csn csl djz cqv qo cdo avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_04.wav,478988,alk pu aeh aqc alh bqb bxi ak qo cwm brq cpk bbu brq qo cwm cod aek ak qo nv dbm btz czm qo bcl cem bby bkk cwm brq qo cwm brq dgs bud ack avr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_05.wav,91916,ais uk qo aeh aqk zt ns nb dhv cxr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_06.wav,72748,zt ns nb dgs bud vq arh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_07.wav,104908,alk pu cna czk jh cue crn bzq ari ak aow ccd tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_08.wav,74284,dbl aow brv tx dgs nc cgq aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_09.wav,122412,aow ctw tx crn bzq ari ak bkk ctl bsh cdo qo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_10.wav,77452,aeh dad aqk bvq ckr bgl amy bpm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_11.wav,63244,dap bfp aml ahl nz dkl kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_12.wav,97420,aqk ev pk dap bfp aml bnn zt kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_13.wav,117580,aqk cod aac crn auc cfz dap bfp aml cem agc kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_14.wav,126444,aqk cgs ahl kb cdo zt avr rw dap bfp aml cgs ahl kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_15.wav,120332,ckh dw dap dbl dff aoi st djp cdo aki auv baz asi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_16.wav,346540,alk pu cr dbl vo adn baz dgs bud amy apz cgb dap bfp aml bvq ak cao ayj dch cdo kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_17.wav,483340,cem vk cjm aqk ev btz diq alk ak cdo bvq bbu ahl kb aqj bud bqb bxi ak qo cpk bbu brq qo aek ak qo btz czm qo bkk cwm brq qo cwm brq dgs bud ack avr aeh clw dad aqk zt ns nb ki bvv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_18.wav,249004,ly alk pu azb azh dgs bud ly cem ary qo crn bzq ari ak djz cqv qo act csn nv bzf qo qg brq xo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_19.wav,189548,cem brq ayn qo bvq agp azb azh cvx bud ctw qo ly uk qo azb azh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_20.wav,411660,zt ns nb bhr bgb bxi bjz wf coj bqb bxi ak qo bkk cpk bbu brq qo dix bqe bhr bog aqk coj baq cdo bcy cgy cdo kb aeh wr rw ahr dix bqe
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_21.wav,249164,ctw qo dgs no bqb bxi ak bkk cpk bbu brq bqb bhr cdo yv ask cew ckh ckt cdo dft brc aeh daf rp bom aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_22.wav,299596,cpw no bvq wj asi cdo ckx xb h cak bkk h cak cdo yv ask daf rp bom aml dgg avn h cak aai cjm aqk bqb bxi ak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_23.wav,322220,bhr ckh cpi dix clw dad cdo kb dk bin aqq wj dad kb bvq wj asi bvq wj asi aai cjm aqk bvq bbu ahl kb axb ahl cdo ajm bvt dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_24.wav,225036,axb ahl bkk cem am ip cew bvq cvx aeh bud abn iv rs ly bvq wj asi cvh bsh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_25.wav,158348,bvq wj asi js cnf alk ckx xb bau aho csl abn iv brl daf bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_26.wav,215660,dgs na aiq alk acl baq cg bcf cdo cii cht cpm cxx brv cga ckh aow bal kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_27.wav,280492,dw ahn dbl asp mq aqk ahb ald cdp div ctl vy kb rm cwv dap bfp do kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_28.wav,344140,cpw ahn dbl bzq hv cdv bbd r cdo cgs no aes brl daf rp cdo ckh ckt yv ask sp cr dad djr alk ckx xb h cak bkk alk cdo yv ask
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_29.wav,192172,cem vk wq ave kb chq bnk aeh sp cr dad bvq wj asi dap bfp crn bzq ari ak bkk ly alk ctl bsh cdo qo cr dad cdo avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_30.wav,220972,bqb bxi ak qo clw dad aqk cod aac nb ciz fe alk cod aac nb dgs bud qo nb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_31.wav,188236,cpw bhr ayn hl qo pk crn btz cgg ceb cyi btm bkk chz clw dad ciz fe
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_32.wav,69644,alk bud djf bzc bic cdo dhy bnm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_33.wav,248620,alk xy bvq wj asi aty bug bhp avg dib dch cdo bij djf bzc cdo bic cdn bug ly bvq wj asi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_34.wav,185484,djf bzc cdo bic no do kb azb aqk awp awx baq bud wi dgg agg cup cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_35.wav,194412,bvq wj asi dgs no bqb cak cdo bzf clw aow rm abr ckh dad pi pk crn btz cgg
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_36.wav,241068,bqb bxi ak qo au bvq wj asi bhp awp no kb dfn pi ays yv ask awp cdp div bzf bom cnt
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_37.wav,70444,bvq wj asi au bqb bxi ak qo bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_38.wav,159564,ays cna czk bgi dib dch cdo bij djf bzc cdo bic cbt bkk cqr du dkn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_39.wav,327308,cyl bud awp cdo brr zt dgs bud ckh buk ai ckh buk bsu ceb ays aeh pj bzf atg cak awp bhp ays awy bvq wj asi cdx agm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/14_chunk_40.wav,365004,nm bhr vy kb bqb tr cdo cew ly ays ctl re cdo bvq cvx cem am ip axb ahl bqb wi cak cdo rm djg cem nr amm alk pu bzf bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_00.wav,65708,ahc afp bat csr aos zz boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_01.wav,38188,ais jh cem cuz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_02.wav,118380,cbt bkk cqr aqk csv akk deg bhr cdl au bvq wj asi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_03.wav,133388,bvq wj asi awp pj ahs bwp bve ays bud awp cdo adf ble
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_04.wav,65676,dcl bzq bzq dch baj cdn awp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_05.wav,233484,bvq wj asi bhp bij cbt bkk cqr gl ays cof bah xi awp bti cdn ays cjl biz afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_06.wav,178956,cew aoy ahs btw chk ays acl fp cdo bud bzq hv cdv kb cem ahl cem dkr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_07.wav,33644,bvq wj asi cpw bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_08.wav,213484,awp aka bhr pi ays xb xi dcd cg aqk ays acl deg cdo kb dgs bud ays cdo cuz czb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_09.wav,62540,cbt bkk cqr cpw bhr cdl au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_10.wav,232044,ais kb dcl pj cah xy awp cdo cuz czb awp yk fk bqb cg cdo axw cah xy awp cdo cuz czb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_11.wav,230380,aqj bud aiq alk btq dbl bwc r bhp awp bgi dib bta ayq vi lg ed aar
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_12.wav,111276,my vi cak qx dad dgx cpw au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_13.wav,74220,awp cdo cuz ccs aes ahs azs aei
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_14.wav,56268,bvq wj asi ctt cbt bkk cqr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_15.wav,84716,cbt bkk cqr dgs cem aei xy alk cdo ddr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_16.wav,54284,cbt bkk cqr cpw au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_17.wav,42732,ays bud cbt bkk cqr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_18.wav,99980,rs aiq awp clw aml eo auv aux cdo bzx avr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_19.wav,82028,xy ahs aes ais dch cdn awp xy fp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_20.wav,27916,bvq wj asi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_21.wav,34060,bij cbt bkk cqr gl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_22.wav,97484,ays dbz my aku bch dcl cak ais dch xy fp afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_23.wav,14700,alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_24.wav,80460,awp xy ays ayf ckh nm brv tx cdo dfp er
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_25.wav,155020,ckh nm brv tx cdo dfp rw byv ckh nm brv tx cdo csc mg byv
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_26.wav,90476,ckh nm dh dci ckh nm ny buo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_27.wav,73548,bvq wj asi dgs ayf aml ais azy dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_28.wav,80172,cwa dby zu cfl rm cah ddn qh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_29.wav,73932,ckh qh au cyi ckh qh dch ki auc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_30.wav,64172,nm bhr bha aka bhr zu cfl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_31.wav,121356,bhr btl bha cte dad btb aqk dcd azw cp cdo arf ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_32.wav,74444,bvq wj asi dgs no axc agb oi aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_33.wav,156684,cz bnz aai btb cdo avn bkq bvq wj asi aru aru dch kq aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_34.wav,139372,cnm crd bhr bxy kb cdo bzq bgs qg btb aqk alk fk ahr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_35.wav,56332,cbt bkk cqr au bvq wj asi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_36.wav,172460,awp ahs cdo dgl aku bch awp cdo cuz ccs dcl bgh ars bby kb cdo dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_37.wav,186828,cpw dii jh dcd dch cdo kb dcd dch cdo kb ahs cjj cmg alk pu ctw cga tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_38.wav,328332,cew aoy alk pu bqb ahs dii jh cdo dcd cwb ays ahs qt ia cuz dad alk pu dcl ceb cyi bgb bxi yv ask bcp dcd baq clw dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_39.wav,246156,asp awp ahs cfa bzq yp vi bkc bkc vo vo dch bwe dbl awp auc cnk dcd baq brl kb dgi ji
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_40.wav,43148,dbl aml csr ctw ew
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_41.wav,210380,alk pu dcl cr dbl aei dch bdn xy bvq bbu ahl kb cdo zc c bti aka bhr azg csk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_42.wav,295436,cz btb dib bgs pj ake bhr cmt dfb cdo cph cew bbn cyi cdo cwy no bcp dcd azy arf ex deg czk qx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_43.wav,106220,dgg dcd cz cbt bkk cqr ly bvq wj asi aze bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_44.wav,7788,bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_45.wav,62604,ays cna cdn pi awp cdo cuz ccs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_46.wav,517324,bcp jm vk jo dw dbl wj brq bzq jo abr dch dgs bud crn dji kb crn dji btz kb cih bbu dji kb bla kb cwm ahl btz kb ahl nz dkl kb bvq bbu ahl kb eo cgp kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/15_chunk_47.wav,104268,kk eo ayn kb cbt bpx cgb kb abr dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_00.wav,66860,ahc afp bat csr aos cck boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_01.wav,135244,bvq wj asi cdo awz xi ayn cur pj pi alk cg xb ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_02.wav,92652,ayn cur bhr ckh cpi awy ave bqm csb beo cih
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_03.wav,31468,bud jm vk kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_04.wav,55084,ayn cur au bvq wj asi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_05.wav,69836,cbt bkk cqr awy ays pj my cg avw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_06.wav,81612,coz awp bkk ays cdo awy ave ctl un
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_07.wav,87820,wa si ays djg cem bdn aig cak cek xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_08.wav,86540,cak cek xi bau aho csl brl adl aze
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_09.wav,91788,bvq wj asi js bcp aml ayn cur cdo cdl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_10.wav,74924,aqj bud bvq wj asi cdo awz xi ayn cur
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_11.wav,142892,aes awy ave jm vk kb beo cih pi aml zr cya xy anc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_12.wav,109676,dcd avn bvq wj asi aqk eo cgp cna czk cjm aml aow tx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_13.wav,150636,bvq wj asi ly beo cih ctl un beo cih dgs caq aml crc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_14.wav,137004,aig cnf cdp div bhr crc dgs cpz ayq aig cdo bij dfp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_15.wav,51116,ayn cur au bvq wj asi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_16.wav,41548,ays bdn awp chk cvk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_17.wav,358124,ays aes ays cdo awy ave aoe aqk awp caq deg aig cnf cdp div bhr aml crc dgs cpz ayq ays avg cbt bkk cqr aqk awp ays deg ald mo acp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_18.wav,54892,bvq wj asi au ayn cur bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_19.wav,148044,awy ave aqk awp awx cte awp djg cem ath cxw cmg aig
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_20.wav,170124,ayn cur cjj cmg aig aig dgs bcp ayn cur asy dkc dix btq aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_21.wav,208428,cbt bkk cqr cdo awy si aqk st djp ade avr bob ahr cdo lv cgl fl asw cnf aig
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_22.wav,26316,au aig bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_23.wav,56748,ayn cur cdo awy ave beo cih
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_24.wav,101548,awp bcp md baq dad ahs wr md baq bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_25.wav,23756,beo cih bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_26.wav,107948,ays bcp ays cdo bij dfp ayn cur asy dkc dix clw dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_27.wav,62092,cbt bkk cqr cdo awy si au aig bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_28.wav,182892,awp cr dbl awp bij dfp dcd baq dii aqk aig awx cte cpw bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_29.wav,188716,ays dcl awy awp cdo cuz ccs bt bcy ddh bxi aed djf pj djg iy vi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_30.wav,258380,cew bhp awp azs cgf caq crc ahs cg ckh cpi xb xi djg cem pi alk du bqm csb cem am ak ahl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_31.wav,89484,bdn xy cbt bkk cqr js cnf aml awp cdo cjj ck
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_32.wav,108332,cem am ak ahl dgs bud bic js cnf cdo cxw atq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_33.wav,62124,alk xy kb dcl cju djp bet
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_34.wav,266956,alk cdo awx ahs aqc alh kb kb cdo awx bnk ahs aqc alh alk alk dcl cjm aqk ed abn iv cdo brr r
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_35.wav,174220,beo cih dgs agg dcd au aig bhp cdl cdo cbt bkk cqr xy ayq avz kb cdo bic
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_36.wav,164204,bdn cxc bhp aqk ais baq ays bnk ayq cnf dcd ayq avz ays cdo dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_37.wav,251532,bqb cem ais pb bqm csb dkp bso brq arh cur ais pb aai aqk amy apz cgb bkk baz auc deg ald
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/16_chunk_38.wav,489804,cuz dad beo cih pi bvq wj asi cg aml ckh cpi xb xi bvq wj asi pi alk du bqm csb cem am ak ahl beo cih pi bvq wj asi cg cem am ak ahl cdo avn bkq bvq wj asi tx bal aow aga ajz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_00.wav,69964,ahc afp bat csr aos aph boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_01.wav,87724,bvq wj asi tx tv aow tv ajz cdo avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_02.wav,117260,cbt bkk cqr bgi alk di cbz au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_03.wav,51980,ays bud ayj my cdo bic
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_04.wav,98092,awp dgg aqk ays asy dkc csl bfq ayj kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_05.wav,50060,ays dgs ly awp aze bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_06.wav,88588,awy awp cdo cuz ccs bt bcy ddh bxi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_07.wav,57772,bvq wj asi bbi ciq aqk dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_08.wav,42284,bic cpw au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_09.wav,128716,ays ly awp aze bfs awp ahs csl bxi cwb cdo ei
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_10.wav,35404,bcp aei cem cuz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_11.wav,72780,awp cdo bqm pj bkz csb bvq wj asi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_12.wav,50572,ahs csb bvq wj brq cqu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_13.wav,90668,bdn xy ays cna aze awp csl bxi cwb cdo ei
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_14.wav,256172,ays dcl awy awp cdo cuz ccs bt bcy ddh bxi cwb je bcp awp cxc aze ln qo bcp awp cxc clw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_15.wav,316364,ays ahs ly awp cew awp afp afp ew ew cdo cuz ccs yf aze ays cdo bfs csl did or cdo bfs bud ahs csl awp bkk awp cuz ccs cdo bic
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_16.wav,385708,ays ahs aes awp cbz aqk bgh ars cdo dch dgs bud eo cgp ayj dch cdn pi awp bkk awp cdo cuz ccs did or xy fp ays bnk dcl csl alk pu cdo bic
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_17.wav,51756,bic cpw au bvq wj brq cqu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_18.wav,157228,awp bkk awp cdo cuz ccs dcl afp afp ew ew cit cen ays cdo bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_19.wav,381804,awp pu bqb bhr cdo djy xi aeh ahs chk cot tk ais dgs bud ays ly awp cew awp cdo cuz ccs bqb aze cdo bfs bud awp pu bqb dgg cit cen cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_20.wav,154028,awp pu aeh ahs chk cot tk chk cot tk bau aho csl cot aft aal
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_21.wav,89260,aos kd cif alw cif kd cif zz daw ctl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_22.wav,70220,ais bud ays ly awp pu aze bfs cdo dcu csx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_23.wav,56556,awp pu afp afp ew ew cdo djy xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_24.wav,131564,bah ccb bud acl baq cg cdo bud aqk awp cuz ccs abr bwc cke byy xi bcp bwc kb can cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_25.wav,106284,cg cte dad csr bal cz aeh ahs chk cot tk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_26.wav,215628,awp acl baq cg cdo bkk awp cke byy xi can cdo aeh dcl alx chk cot tk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_27.wav,166124,ais dby ays cdo bfs dgs aze aqk awp pu arf cfw ahr csl did or cdo bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_28.wav,239308,asp pj chk cot tk cdo djy xi dcl bcp chq deg azt ctj bdn alk nc aml ays cdo bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_29.wav,53836,bic cpw au bvq wj brq cqu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_30.wav,49900,awp cdo awz xi ayn cur
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_31.wav,53644,pj djg bkz csb ayn cur
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_32.wav,64460,aig cdo bqm ahs csb ayn brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_33.wav,48588,ays dcl cdn bug pi aig
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_34.wav,81356,bnk ahs awy awp bcp aig cak ckh cpi xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_35.wav,264140,ays ahs cdn bug pi aig aig bnk ahs csl bxi cwb abr dfp dcl bhr cga lm cdo ln qo bcp aig cxc clw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_36.wav,88876,bvq wj brq cqu dgs bbi ciq aqk dch adv aaj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_37.wav,158412,bwl baq bhp ckh cga ajz cdo kb bti my cak cek xi dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_38.wav,140972,ayn brq cna czk tv aow ajz aml bti my cg bcf dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_39.wav,40300,bvq wj brq cqu au bic bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_40.wav,79468,asp avg cem am ak ahl cny aqk awp asy dkc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_41.wav,36588,bic bhp pj crd
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_42.wav,97484,awp awz xi ayn brq ahs pi awp cg ckh cpi xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_43.wav,71116,awp ahs pi alk du bqm csb cem ayn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_44.wav,75084,ays ahs ly alk yf xm bqb aze cdo bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_45.wav,67724,csl alk cuz ccs did or cdo bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_46.wav,368588,djf aqj cem am ak ahl ays bnk wi ahw awp ays dcl cdn bug pi alk awy alk eu bo bt bcy ddh bxi alk dcl cg aow ccd cpi bbq cou
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_47.wav,72908,ays bnk ahs awy alk cah xy bzq cwb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_48.wav,244524,dbl awq tx ais avn daw ayn brq dcl pi awp cg cem ayn ays ahs ly alk yf xm bqb aze cdo bfs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_49.wav,155692,bic bkk bvq wj brq cqu bhp bfq aml cdl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_50.wav,120236,dgs tw cfl alk ahr cuw bom aml aai dgg dcd cz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_51.wav,132396,bvq wj brq cqu cit cyi bic cdo bfu pi alk cdo xb xi cem am ak ahl bkk acl baq cdo ckh ckt djy xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_52.wav,208524,bah ccb bud aqk acl baq cg cdo bud cke byy xi can cdo aeh re aml cot tk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/17_chunk_53.wav,888236,bvq wj brq cqu chk cot tk cdo avn bkq tx tv aow tv ajz alk xb xi cem am ak ahl chk cot tk cdo avn bkq tx aow brv ajz aai dgg dcd cz bvq wj brq cqu bkk alk xb xi cem am ak ahl ckh ctl chk aml cot tk acl baq bqb bhr cdo kb bah ccb bud aqk acl baq cg cdo bud cke byy xi bcp bwc kb can cdo bnk aeh ckh ctl chk aml cot tk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_00.wav,66572,ahc afp bat csr aos bhu boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_01.wav,88044,cbt bkk cqr aqk axb ahl ajm bvt dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_02.wav,74924,bgi bvq wj brq cqu di cbz clw dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_03.wav,158700,dcd avn aai bms bvq wj brq cqu bmq aqk ps def bvx dfn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_04.wav,36172,gg ayo bta ayq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_05.wav,328972,cnf bhr brv cpi kb aqk au asy anl cyi alk ckh cnf dgs bcp ps def bvx dfn bqe bom ciz fe alk pu bbi ciq aqk dch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_06.wav,263756,bhp ays bij ays ata aqk awp dgb dkc bdh ddu coz awp pj ahs tw cfl vy kb wr dkc bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_07.wav,46476,alc ays bzf dj lv dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_08.wav,148396,awp pu btz btz ub aqk bvt cte djd cri djd cri
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_09.wav,137484,ays bkz bzf ckh dj btm dad awp pu djg cem amy ic bwl cao
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_10.wav,41388,crd cuz wr dkc bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_11.wav,126540,awp pu cof dbl vy kb ais baq dad baw dgg azs aei
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_12.wav,115980,alk pu bhp dgs cm awp bhp cdo re cnt
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_13.wav,303180,bvq wj brq cqu cgn eq dkm ps def cnf ayn brq bhp awp bnp bnp bzf brv apl bvq apl asy ctp bkk csl btm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_14.wav,76108,bvq wj brq cqu cpw bqe dbl er aiv baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_15.wav,147084,bop aml ckh nm cpw asl cpw cdf cdo er bns dad azb pi vy kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_16.wav,66924,vy kb cgn eq ctf cie cdf aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_17.wav,248492,bvq wj brq cqu cpw ayf aml abh pn bkk abh cew ctf cie cdf cdo er bns dad ki aqk alk pu asy dkc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_18.wav,143436,cdp div aqk bvt cte anl aqk fl r alk pu dgs tr aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_19.wav,58636,alk pu fi bvq wj brq cqu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_20.wav,163948,awp awz xi ayn brq aqk md baq alk bhp aqk ps def baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_21.wav,44972,brv kb deg bhr ckh bzi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_22.wav,55756,dbl awq tx ais avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_23.wav,183340,ays dcl ahs cr dbl awp ais baq awp cdo awz xi ayn brq dcl cg ckh cpi xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_24.wav,159148,ayn brq aqk dcd kb cuz r cdo ps def bvx dfn bnk js cnf aml ais cdl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_25.wav,169068,bvq wj brq cqu bkk ayn brq tx ayd ari bpp ayn brq cdo cse czk cna acp ajr aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_26.wav,219340,ayn brq bwl baq qg aaj bhp ays cof cna bev bfp ays bij bnk ari bpp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_27.wav,58828,dew my bhr ais adv jh afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_28.wav,58828,cbt bkk cqr au bvq wj brq cqu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_29.wav,229900,ayn brq xy cjl biz qg aaj bhp ays cof cna tx ari cjg dcf my cg bcf dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_30.wav,357580,cbt bkk cqr dew bhr cjy cah cdo jh dgx dbl aml cz bzg awq tx ais avn bkq ays dcl cr dbl awp ais baq ayn brq dcl cg ckh cpi xb xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_31.wav,206252,ayn brq dgs awm bve pj btw acd bhp ays aka bhr aaj dcd bzi bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_32.wav,74636,pj crd awp am aqk aaj aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_33.wav,145996,brv kb dgs bcp dcd baq du re bgi bqb bxi ak bta ayq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_34.wav,133132,bvq wj brq cqu bnk ly alk pu ctl re ahs dcx alk pu ckh dex
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_35.wav,25580,cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_36.wav,139884,ays bqb ahs csl cdo jh dew djg boe cyi bvq wj brq cqu afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_37.wav,210284,bvq wj brq cqu dcl ahs cah xy yc bzq cdo cwb dch ahr cdo dfu cwb aeh dcl bdn alk cak bug
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_38.wav,445004,ays cvq avz alk xy ahs csb alk aev aan alk cdo ed xi bkk alk cdo cvq bkr cit cen ays cdo bch ajg csc re ddr awy ays bqb wi bgb bvq wj brq cqu cdo cdl aeh cah dgs aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_39.wav,29804,cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_40.wav,164268,bqb bxi ak bkk cpk bbu brq cdo zc con aed dij xx me aqj ays
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_41.wav,49708,ays cbz aqk ahs cte bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_42.wav,331500,bqs ayq alk pu bqb re cdo cjg crd biv cju dcd csn dbl ays bso deg cdo xx dkl ckh dby dgx ata bud pj crd ays bnk dcl aku bch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_43.wav,63660,ccd kb tt fk tw cfl dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_44.wav,177996,bgi bqb bxi ak bom asp bvq wj brq cqu sa dax anl aqk cbt bkk cqr asy dkc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_45.wav,53900,bvq wj brq cqu aoi dkc dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_46.wav,105228,bhp bah ccb bcl con awp aeh ahs bkn amf dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_47.wav,338156,jv ata dcd apj baq bhr uk aow cpi ddr kb awp bti bkn amf dcd dch cvi dgx pj xy apj baq ais uk aow cpi ddr kb deu yn bcy deg cdo kb dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_48.wav,268396,aes ddr kb ly con kb ctl dap aes ddr kb ly con kb ckh dby ayq cmg ais acp pj bud awp bqb re cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_49.wav,119692,bue mo ayj dch cdo bij dew pj re csc ddr dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_50.wav,15116,cbt bkk cqr bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_51.wav,283052,ays ata aqk bqb bxi ak apj baq cnf bhr uk aow cpi ddr kb ays dgs xy alk pu cdo bel pz deu yn dcd dch cvi cdo ed kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_52.wav,479276,bvq wj brq cqu bhp ays daq crd bud bvh ax bti dda au bij bhp cdl jv ata ais uk aow cpi ddr kb uy aml uk cpi awp dgs bdn xy uy aml uk cpi axg amf ayj apj dgx alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_53.wav,151980,ays aqk dcd baq ata cnf bhr ctw aow uk cpi bnk pj axg amf dcd apj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_54.wav,206892,bvq wj brq cqu cpw au alk bhp jv ata aqk dcd baq cnf bhr ctw aow cpi dbz biz dby afr alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_55.wav,115532,xy ais ctw aow cpi cdo bel pz ays bnk pj csl ais jh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_56.wav,321772,bvq wj brq cqu bhp coz bij pj ahs aqv ate alc ays bhp jv ata aqk dcd baq cnf bhr brv aow cpi dbz biz dby afr alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_57.wav,129260,ays aqk dcd baq ata cnf bhr brv aow cpi ays bnk pj csl ais jh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_58.wav,897996,bvq wj brq cqu bhp ays bti dda au bij bhp cdl jv ata aqk dcd baq cnf bhr ccd aow cpi dbz biz dby afr alk bhp xy ais ccd aow cpi cdo bel pz ays bnk pj axg amf dcd apj bvq wj brq cqu bhp coz bij pj ahs aqv ate ays bkz bhp ais ckh dhi jv ata aqk dcd baq cnf bhr aow cpi afr alk bhp xy ais aow cpi cdo bel pz ays bnk pj axg amf dcd apj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/18_chunk_59.wav,247532,cbt bkk cqr ly bvq wj brq cqu bhp bfq aml cdl dgs btq aml bvq wj brq cqu bnk cr dbl cdp div cdo dch cvi bom aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_00.wav,68492,ahc afp bat csr aos ddf boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_01.wav,113708,dcd ddn cpi dib awy hk ahr dbl aml bqb bxi ak
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_02.wav,166444,h cak aai bmq aqk bqb bxi ak apj bvx dfn ayq cnf alk pu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_03.wav,132844,dgs du dad ciz fe cvl ciq aqj dch cte m
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_04.wav,223724,bhp ays bij gl bfd awp pu dbl vy kb acl baq btz btz ub cjm ckh ahb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_05.wav,54540,xu cxn du dad bkz btq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_06.wav,47340,alk pu bhp pj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_07.wav,67916,ays pu ahs aqk ajv ahr qx ahb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_08.wav,191084,h cak ckt ckt dch bfd alk pu alk pu ais axw dkm bom dbl alk apc baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_09.wav,67340,h cak xy alk pu ctf cie bvs bxr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_10.wav,108396,cos bah eg btm alk pu dgs tr aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_11.wav,155692,alk pu bti aka bhr tz cte bqb bxi ak apj baq ip byi cdo kb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_12.wav,134316,djr ari ceb bfc aeh dad aww cjm dcd un xi dku csb h cak bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_13.wav,180780,cgf cz hk ahr dbl awp ais baq dad cdo kb aqk md baq afr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_14.wav,115372,no alk pu ceb clw dad nr ays pu bqb xy
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_15.wav,150604,h cak clw dad no bvx bkg ahr dbl ed kb dcd baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_16.wav,150412,bhp ed abn iv bfd awp pu pj ahs csl ais con jh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_17.wav,100044,ays bhr ddn cpi ave xb bti bud byi ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_18.wav,104044,alc ays aiq clw dad nr amm awp pu cdo bwl avg cxc re
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_19.wav,173772,nm bud ais ddn cpi kb cof crd dbl ays bbv cte pj ahs bgi alk pu csl cjl biz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_20.wav,571340,ed kb bhp axy bom cnt cpw bhp ais cpi kb dad bgh ars bti cts ahs csl apm md cbz aqk ays pu ahs awm awp cwm awm alk pu cbc aed ed kb dgs bgi dkc agw hn h cak ahs aqc bte un bvx nm bud dcd ccd kb ahg clw awx dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_21.wav,205772,aes h cak brq dkm apc bom no bvx bkg ahr cew aoy awy bvx bwc cdo kb bah ccb ari bfc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_22.wav,303404,dgb aeh bpe bwr alk pu cre dad cre bom bun jq pj cyi un bvx ccd kb au h cak bhp awp ais baq bti bhr cjl biz kb dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_23.wav,39724,bah ccb bud ave bce bud xb ave
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_24.wav,385740,bkk ais apj deg ckh ckt bkr awp cdo kb awp aeh ahs aes alk pu bcp ais dch cvi ceb clw bom ays pu ahs axg amf ais dch cvi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_25.wav,382956,bdn xy apj bjq zc con cdo xx dkl aqk cbt bkk cqr asy dkc aed bzq cbt bkk cqr bmk ays pu dad ahs axg amf ais dch cvi h cak dgs clw bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_26.wav,239052,dk bin db aml alk ave xb cdo ave bce pu db aml wa csl aes ahs db
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_27.wav,215948,bhp awp pu du dad tw cfl ais dch cvi bdn xy cbt bkk cqr ahs axg amf ais apj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_28.wav,96844,alk ave bce pu bhz cem xy alk bhp cdo bud gv ib
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_29.wav,141036,dib awq aml dib awy cmx ru h cak bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_30.wav,170924,du dad ceb cyi awp cdo awz xi bkk awp aqk ais baq cdo ddn cpi ave xb clw bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_31.wav,124108,atg cak awp bdn ais apj baq cdo zc con ctl brl bkn amf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_32.wav,520300,asp h cak hz sf pj btq ccd kb bdn xy cbt bkk cqr aiu awk h cak dgs brq cyi alk cdo awx bkk alk awz xi cdo awx cew alk ddn cpi ave xb cdo awx no alk pu aiq clw dad vo anm aqk apj bwc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_33.wav,456684,aiq alk pu clw dad cem cuz dgs bhp dix bfu cnt pj djg cr bnz ayq bnk pj djg aqk bkc bau anl cjm ahs wr rw ahr dix bqe atg cak awp brl bkn amf h cak au alk pu bhp ays bij gl
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_34.wav,657036,pj ahs azs aei awp vy kb cna czk aqk awp dgb dkc bdh ddu awp cpw bgi ays di clw kg bzq cdo bai avv djv ays cdo pd bfu ays pj my dix dbl rw ahr bom dbx bve ais qc cpc cay dbl ays ays mq azw aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_35.wav,240748,ayq md ais ke apj cpw cpz cpw aoi alc bsr dix dbl ais pj bud ckh cpi cpz cdo dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_36.wav,133836,coz awp alc ays dix dbl dcd baq ays cdo pd bfu dgs cak bma cny
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_37.wav,30316,dib awy au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_38.wav,45292,ais jh ays bnk wi ahw awp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_39.wav,67948,ays pj dfy anx awp bqb bhp cdo ais apj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_40.wav,61676,awp ahs bnp bnp dch dix dbl dcd apj
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_41.wav,231980,bdn xy awp bti aka bhr dbl dcd baq ays pj my csl cjl biz bdn aei dcd apj bqm csb ack avr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_42.wav,74444,ack avr dgs bud cpz cdo cxw atq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_43.wav,45164,h cak dbl aml ack avr
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_44.wav,45836,cz bnz cna czk clw dad aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_45.wav,12972,dgg avn
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_46.wav,250924,cbt bkk cqr aes als ans ly cwy bcp dib ahr cbt bkk cqr dcd baq rc ly bqb bxi ak bkk cpk bbu brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_47.wav,75596,no dcd azy apj bkk ayj bkc bau
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_48.wav,150764,cew apj baq bqb bhr cdo ars chq djr dch ahr cg cou cdo aeh axg amf aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_49.wav,182220,h cak cdo awz xi aqk cuz r cr bnz ckh ayq dgs cko cah aml ckh buk vq czf
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_50.wav,59788,bvq wj brq cqu xu cxn du dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_51.wav,114156,dbl aml alk bcp dkc anl aqk cbt bkk cqr asy dkc cdo dch cvi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_52.wav,190732,bgi bqb bxi ak bkk cpk bbu brq ly bkc bau cdo ayj dch bta ayq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_53.wav,54700,pj ake dcd dch cvi dfb com ahr dca
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_54.wav,53964,azs ctl bbn abp ckh gz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_55.wav,418284,dgg bic axg amf bkc bau cwj apj cdo avn bkq alk bat brn bvq wj brq cqu aai aqk dfy anx h cak bqb cjm abr apj cdo avn bkq dgs alh brh h cak bcp dfy anx abr deg clw dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_56.wav,381260,h cak bdn xy bve cjm aqk ack avr dgs ctl alk ddn cpi ave xb bcp ack avr ahr bom cjm aqk rw baq alk bkk ddn cpi ave xb cjm aqk ckh cpi blk baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_57.wav,60044,bzq ave xb au cpz ave xb bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_58.wav,43116,ays pu cdo ei vs ari aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_59.wav,178860,dch ahr cpw bah kb czy cyi afp ahr cdo ddg bft dkm dbl ays pu ais baq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_60.wav,10540,dad
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_61.wav,264012,ays pu djg cem csb ei vs cja chz ly alk ctl cog ais dby ays pu cdf bcp alk bma ajd cuz ccs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_62.wav,345964,aqj bud dcd ahb aig pu csb ei vs cja chz bzq ave xb dgs dkm bom bkk aig ei vs ctl cog aig wo avn tz cte wo avn du dad ei vs aeh pj aku bch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_63.wav,344588,csr ccd dib bzq ave xb au cpz ave xb bhp ays agh ahb ly ei vs ctl cog cgf ahb ays pu bkz csb alk cja chz awp djg cem dkm bom ly alk ctl cog
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_64.wav,113548,ais dby ays pu cdf bcp ei vs bma ajd cuz ccs
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_65.wav,87308,aqj bud dcd ahb aig pu cpw csb ei vs cja chz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_66.wav,247212,cpz ave xb du dad ly aig ei vs ctl cog aig wo avn tz cte wo avn du dad ei vs aeh pj aku bch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_67.wav,173868,ais dby h cak cdo ddn cpi ave xb aeh bcp aig ei vs caq aml crc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_68.wav,133452,bzq ave xb cg aml xb xi pi alk du bqm csb bbu aek
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_69.wav,93164,dgs bud cbz cgf bbu aek kb cdo bhq cnk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_70.wav,154284,cpz ave xb bnk cg aml xb xi pi alk du bqm csb mq bvq agc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/19_chunk_71.wav,78924,dgs bud cbz cgf bvq ww kb cdo bhq cnk
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_00.wav,66828,ahc afp bat csr cif akj boh
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_01.wav,114092,bvq wj brq cqu bcp dcd baq bgi cgp dch afj bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_02.wav,141452,bgh ars aqk amy apz cgb bkk ade avr deg ald cdo crn brq bso
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_03.wav,273260,bvq wj brq cqu agg alk cdo awz ayn brq xy azc xi crn brq bso qo bvq cwm agc auv bmk kb no ayn brq ayf aml bom
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_04.wav,122092,asp ahb ald bic dad aqk bc deg au bvq cwm agc auv bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_05.wav,239212,awp bud cpi azw kb md bdn xy awp ayf aml dcd ave kb dad aig bau bud bby kb cdo awz xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_06.wav,143532,bvq cwm agc auv bhz bti aka bhr vs aoi ayn brq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_07.wav,133836,alk bhp bij gl djr bhr ddr cdo cwb awp bnk ahs axg amf dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_08.wav,79820,dcd kb dew pj bud cdp div au ays bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_09.wav,60812,aig bud ays cdo azc xi dgx
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_10.wav,279820,dgs bud ave kb bnk cdp div bhp alk bud ays cdo dbt dbt ays csl ais jh bud bwl aai awx agq cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_11.wav,59372,bic aqk bc deg au alk bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_12.wav,180300,ays aku bch awp csl ais jh bud bwl deg aai dw ays bnk ary azu aml awp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_13.wav,155660,atg cak awp cak zc ays bqb cem ays pj alc awp aee cyi aig
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_14.wav,179404,cbz aqk awp no ais kb cdo awz xi bwe bti alk bdn xy alk bud bsg aku
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_15.wav,235532,alk ahs xy awp cac dk awy awp bma cny awp ata pj bwe bti alk awp dgg aku bch
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_16.wav,103468,awp bkk awp bqb bhr cdo kb aeh dcl ahs azw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_17.wav,990412,bvq cwm agc auv xu cxn du dad auu aml ed abq vy dad aes ais azy jh aeh bhp pi alk pu js alk pu aeh aed bwp bve bvq cwm agc auv auu aml bvq wj brq cqu dad au alk bhp awp dbz biz bgi ays ais dby re afr ays aqk cjl biz jh ahr cak zc aml awp awp clz awy ays bkk ays cwb baq cdo kb abu aqk bzq zc baq awp bgi ays re pj dgg re cdo jh aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_18.wav,75852,bvq cwm agc auv cpw au bvq wj brq cqu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_19.wav,144492,awp cnf aml cjl biz axw csl ais jh afr bvq wj brq cqu bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_20.wav,529740,ays cem xy ais dch cvi cdo kb bun pj bwp bve bic dcl xy ays awz xi cdo bel pz dap ays o aoy aig bnk am aqk bud ays cdo azc xi aig ly ays bud ctl ei csv dfp cuz dad csl aml ays cdo awz xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_21.wav,131052,dgg bic csb ays tw cfl ei acl djh ajk aqk bwc cdo avn bkq
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_22.wav,132140,ays au aig bhp ays pu bah ccb btq dbl cjl biz dch cvi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_23.wav,222444,awp djg cem au kb bhp alk bud ays cdo dbt dbt ais dgs bud awp cmg ays cdo ddu akc aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_24.wav,169708,bvq cwm agc auv no er byv vy aub cdn pi bvq wj brq cqu
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_25.wav,290476,cpw no alk cdo awz xi ayn brq bwe bti alk bvq cwm agc auv cpw bhp ayq md ays cdo dch aeh aqk awp asy dkc
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_26.wav,59404,awp djg cem ath cxw ars cjm
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_27.wav,36812,cpw au ayn brq bhp
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_28.wav,63340,ays pi awp dbt dbt ckh vx byy xi
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_29.wav,115660,csl xy awp aqk cxr acl kb asy dkc cco cvp cdo
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_30.wav,62732,cvp bau aho csl dgb
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_31.wav,105228,awp dgs aqk ed kb asy dkc aka bhr pj bud aml
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_32.wav,51372,bvq wj brq cqu cac dk bic
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_33.wav,282828,bic dgs ciw cdf aml bvq cwm agc auv bkk alk cdo awz xi cew alk cdo ed ave vy aig pu mq my cg avw
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_34.wav,143180,bdn cbt bkk cqr xy bvq wj brq cqu cdo awz xi ayn brq cdo bel pz
+/Users/chibs/playground/bigdata-stack/themes/speech-reg/DeepSpeech/test/20_chunk_35.wav,127628,cna czk awy bvq cwm agc auv acl deg cdo wq kb pj my cg avw
