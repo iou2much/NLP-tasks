@@ -155,10 +155,10 @@ def char_map():
     s = s-punct
     s = s - alpha
     s = list(s)
-    char_map_file = open('char_map.txt','w')
+    char_map_file = open('char_map.big.txt','w')
+    char_map_file.write('<SPACE> a\n')
     for i,_s in enumerate(s):
-        char_map_file.write('%s %s\n'%(_s,to26(i+1)))
-    char_map_file.write('<SPACE> %s'%(to26(i+2)))
+        char_map_file.write('%s %s\n'%(_s,to26((i+1)*100000)))
     char_map_file.close()
 
 #def split_train_test():
@@ -202,7 +202,7 @@ def to26(num):
 #char_map()
 def get_char_map():
     map={}
-    char_map_str = open('./asr_for_cantonese/dataset/char_map.txt').read()
+    char_map_str = open('./asr_for_cantonese/dataset/char_map.big.txt').read()
     for line in char_map_str.strip().split('\n'):
         ch, index = line.split()
         map[ch] = index
